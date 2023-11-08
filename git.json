@@ -327,8 +327,7 @@
         "name": "HBO POP",
         "uri": "WJV8bqurAK7+F3RgM8JvgujihsLr7Ck6U52IVM1mAH8ift4y1VMfN9sjndCd+uFZBKgpuXW9BskbHnqoeed/bdEyo3HGPQjkTfd8b61JGZJKZBdEaBYfs6q/P8P/TDQh",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLTrJXSf2o2GKKl0OrQEVdatwkuc1oj8H2HJowjRhbpXfX5jcPb/IJ6KbbeBPehWggI7LXIBWMv7B9ZPop88D0KIm3AFjVA07BSG0tHlZmmz1wpXsmdhbebaFEoQfuQn6CA==",
-        "drm_session_for_clear_content": true
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLTrJXSf2o2GKKl0OrQEVdatwkuc1oj8H2HJowjRhbpXfX5jcPb/IJ6KbbeBPehWggI7LXIBWMv7B9ZPop88D0KIm3AFjVA07BSG0tHlZmmz1wpXsmdhbebaFEoQfuQn6CA=="
       },
       {
 	"icono": "http://static.tvar.io/imagenes/hbomundi.png",
@@ -375,7 +374,7 @@
       {
 	"icono": "http://static.tvar.io/imagenes/universalpremiere.png",
         "name": "UNIVERSAL PREMIERE",
-        "uri": "wtAdMk6NveHZdxuoXhUZEHidGBRMT0O+KgCdKQ10AMaarE/pzQwLglr+jSzc+8AKXEujb6ymw8B7+lKDEaoK9Sicu0hW/zSPsIdoEwox1ENKYq5CbWeBcbB5FtBPVZXO9OjFPfrv0UtUGmJ8nhPunA==",
+        "uri": "wtAdMk6NveHZdxuoXhUZEHidGBRMT0O+KgCdKQ10AMaarE/pzQwLglr+jSzc+8AKXEujb6ymw8B7+lKDEaoK9Sicu0hW/zSPsIdoEwox1ENKYq5CbWeBcbB5FtBPVZXO9OjFPfrv0UtUGmJ8nhPunA=="
       }
     ]
   }
