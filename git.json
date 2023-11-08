@@ -138,98 +138,113 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=68a5bd6c58e6c05bacfd18d3feec31f2&key=ae23f8357512df2dfabcb8104b078182"
       },
       {
+        "icono": "https://i.ibb.co/s51CsHZ/MEGA-TV.jpg",
         "name": "MEGA TV",
-        "uri": "https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8"
+        "uri": "x9mXa21/25IhrbwPcS+U2ibiRK1FlTysdnbDDbAoRSSOotmLjZZwDWd5fTG04QltQS7Z0gQNcNWXNpFt/PtdvudNI7YwcREFE3d+HBe3o9r/wOM0ETNVlm+mDX8bKl0EGAt9iViKmy7jSC7GDaRVCQ=="
       },
+      
       {
-        "name": "NEXT TV",
-        "uri": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8"
-      },
-      {
+        "icono": "http://static.tvar.io/imagenes/tvcamara.png",
         "name": "TV CÁMARA",
-        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TV_CAMARA)/index.m3u8"
+        "uri": "wtAdMk6NveHZdxuoXhUZEHidGBRMT0O+KgCdKQ10AMaarE/pzQwLglr+jSzc+8AKXEujb6ymw8B7+lKDEaoK9RMZCmDsK1alaX6hJDFIt4T+Mh+FZrghr9k+6tIOsIOltlPvFcqJxYv2ckj1gulqfQ=="
       },
       {
+        "icono": "https://television.com.py/wp-content/uploads/2018/11/%C3%91andut%C3%AD-TV.jpg",
         "name": "ÑANDUTI TV",
-        "uri": "https://tvdatta.com:3839/live/nandutitvlive.m3u8"
+        "uri": "Aje9PX2Ur9frwuH8JZtEIiuDbNXb4fwbgRoAGFfBPfkwW8TpNbQ6G8VgmbPzrr2ftlPvFcqJxYv2ckj1gulqfQ=="
       },
       {
+        "icono": "https://uniontv.com.py/wp-content/uploads/2023/03/logo_retina-01.png",
         "name": "UNION TV",
-        "uri": "https://copacogen.desdeparaguay.net/800tv/800tv/chunklist.m3u8"
+        "uri": "ixDHc5oI6uaiIlQyUMpkKgVD7CMfTtI4eWfuA8OQddWv/Fl5EKUVNppVzk/z11jbPFRGqGrCQdQxPMJnLbOXjw=="
       },
       {
+        "icono": "https://i.ibb.co/CQZmd8m/EDUCANAL.jpg",
         "name": "EDUCANAL",
-        "uri": "https://59ce1298bfb98.streamlock.net/educanal/educanal/chunklist.m3u8"
+        "uri": "EtuJuanOnoWpmQ427dmwINK97Wsr0UMkvPZzvKihyux4yeHjQLr1++OOQmAD9EAl0q4RKc+U4W9BFXGFETJsrWQRz+g7ziKiOY1NiamHwv4="
       },
       {
-        "name": "TV MAX",
-        "uri": "https://tvmaxsa.com.py/hls/stream.m3u8?ver=1.2"
-      },
-      {
+        "icono": "https://i.ibb.co/Wtzp7wR/rcc.jpg",
         "name": "RCC TV",
-        "uri": "https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/chunklist.m3u8"
+        "uri": "EtuJuanOnoWpmQ427dmwINK97Wsr0UMkvPZzvKihyuw6SSMz8tl4HyZEbTbS79Gaykw77tnwvaMvXLKBx3bFGEqpctCfaJpWfafwis+X0ts="
       },
       {
+        "icono": "https://i.ibb.co/s51CsHZ/MEGA-TV.jpg",
         "name": "MAXIMA TV",
-        "uri": "https://maxima-tv.ddns.net/hls/stream.m3u8"
+        "uri": "PMUa25xyIv86VZnOoqdvDN0ZOfHXSuhvr2V5nXHsMAejupMnRp8xqEp8OVdVy4pA"
       },
       {
+        "icono": "https://i.ibb.co/s51CsHZ/MEGA-TV.jpg",
         "name": "MI TV",
         "uri": "https://rds3.desdeparaguay.net/mitv/mitv/chunklist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/s51CsHZ/MEGA-TV.jpg",
         "name": "MAS TV",
         "uri": "https://59ce1298bfb98.streamlock.net/mastv/mastv/chunklist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/s51CsHZ/MEGA-TV.jpg",
         "name": "MOTOR SUR TV",
         "uri": "https://59ce1298bfb98.streamlock.net/motorsur/motorsur/chunklist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/s51CsHZ/MEGA-TV.jpg",
         "name": "SOMOS DEL ESTE",
         "uri": "https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/chunklist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/s51CsHZ/MEGA-TV.jpg",
         "name": "ALMAYA TV",
         "uri": "https://59ce1298bfb98.streamlock.net/almayatv/almayatv/chunklist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/s51CsHZ/MEGA-TV.jpg",
         "name": "GO TV",
         "uri": "https://tigocloud.desdeparaguay.net/gotv/gotv/chunklist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/s51CsHZ/MEGA-TV.jpg",
         "name": "SUCESO TV",
         "uri": "https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/chunklist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/s51CsHZ/MEGA-TV.jpg",
         "name": "ASPEN TV",
         "uri": "https://copacogen.desdeparaguay.net/aspentv/aspentv/chunklist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/s51CsHZ/MEGA-TV.jpg",
         "name": "VENUS TV",
         "uri": "https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/s51CsHZ/MEGA-TV.jpg",
         "name": "TVS TV",
         "uri": "https://rds3.desdeparaguay.net/tvs/tvs/chunklist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/s51CsHZ/MEGA-TV.jpg",
         "name": "REGIONAL TV",
         "uri": "https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/chunklist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/s51CsHZ/MEGA-TV.jpg",
         "name": "AIRE TV",
         "uri": "https://59ce1298bfb98.streamlock.net/tvaire/tvaire/chunklist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/s51CsHZ/MEGA-TV.jpg",
         "name": "CANINDE TV",
         "uri": "https://59ce1298bfb98.streamlock.net/canindetv/canindetv/chunklist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/s51CsHZ/MEGA-TV.jpg",
         "name": "CANAL 8 TV",
         "uri": "https://59ce1298bfb98.streamlock.net/canal8tv/canal8tv/chunklist.m3u8"
       },
       {
+        "icono": "https://i.ibb.co/s51CsHZ/MEGA-TV.jpg",
         "name": "OCCIDENTAL TV",
         "uri": "https://59ce1298bfb98.streamlock.net/occidentaltv/occidentaltv/chunklist.m3u8"
       }
