@@ -755,13 +755,6 @@
         "drm_license_uri":"bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLYN7ygt5htE7Uv5II+GQTJKE2XlA2gGZAxsUWmd6QRJLEjYUBP6j7V4oxeo3J0ANLsGgZLNgjp2KhzDFo8o2UqLYy8mQ1NL6wuHUQ8194puinEoEAU1BLLfHBSZ8QCH9JA=="
       },
       {
-	"icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
-        "name": "TNT NOVELAS HD",
-        "uri": "IeTl7uVCQqpLRBTuBk0D4OJUDp7tRGbbaOV1zV2Nuso0VJIvyrL4z814oTQQ4GeohYf+s4nliW8qnIYsx0bT9jSR0qirNBj0h91j1gc839/4Y3BjbfoqmS5VpeRChpgv",
-        "drm_scheme": "clearkey",
-        "drm_license_uri":"bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLZxeSoZEI+FvvdU1EIC92sFBtCM2QA9ZN4qxDNKjoyc4sFPXhaEt6d/9SEVL9b7Y29yrvREt7F5JAoF3Ync23U3SxRdIvCaFXJC+KNrgzPQjbfoHkC05qno2PsebMc8pTQ=="
-      },
-      {
 	"icono": "https://i.ibb.co/GpgnrxZ/AYE.jpg",
         "name": "A&E HD",
         "uri": "IeTl7uVCQqpLRBTuBk0D4OJUDp7tRGbbaOV1zV2Nusoift4y1VMfN9sjndCd+uFZAbyppW9HFF5w33GZXVVkqYbTNYOFDhHASPL/Tnhb/uECeHiG3PWR/PduEy0pU0cD",
@@ -1167,5 +1160,41 @@
         "uri": "sc4rnhRhnMvSQtT5yZtwvVLEHvW1vXdu4symedBnJ0AxhewE5Z/sd3RbSmBB5DeQjj65EjDtVcByVmZKg0f6YfnKNiTZ20WPfiX5sW2joXBECOX+CycX8ipTZeo6bS28EgGIb5Lzt+YessoFHA2+ORzSDjz7mTBZ9Akqpr8A3pSY9Nu9LMpOK1lbUcVGxD7KNNNnk3+MW9KVNl4nwuy6o8v9MfICgM1CxDAQTiSyMyPn3NJdymWCQ7VZHfGT0B9sOXJyH0vfGgn33KxG31mjFDT+uaLnYQPN8Irx9twmmc1r08ZeUsFaSe555LysKM1e6vqcMzOFsAL+G0dl7GkImR68HIgwpKrHbZjlMaJ2rkRPf7KWHAs4sGO9ZLvkhu8Q0G81ZWMm6ZYc/G9lUsRfxNfGUUcqwUaedrbYQ2FVAXYWyEXgBL7c7/HNLwVxVLs7zkMbI3YTJBF3tMgjYRool/iRvWQLanKCH4jXuli8fXUybS0U7cHZ7YFD87eikjB2oTEHioAWmPpJzAjN/J0QvQ8YhMSsaU6y98VgtblN9GO0rE2DreO+8kESGwV8y9Y4"
       }
     ]
-  }
+  },
+	{
+    "name": "NOVELAS 📺",
+    "samples": [
+      {
+	"icono": "https://i.ibb.co/VjDMdJC/LAS-ESTRELLAS.jpg",
+        "name": "CANAL DE LAS ESTRELLAS",
+        "uri": "NPoV3QkMdZ0kbowMLt5mynfS0bwDZJcQgMpn8xCutccI9x1iv3ATRWsOIcvy/739Z27WBWvfLG4u0Emg1UefidBcgRaVLXNwcLjUbveZBn/gmBnYZXDDBDCCcRrugWsY4gSs8prBKPav0TGdUubV0kpkF0RoFh+zqr8/w/9MNCE=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "Di8ngPZ+gH6MhZHVzc689igkT1JKgI9oqiDYPWkoEp9wv+8QnVSPxr69elIYl4fFQfo69jdU2Hs+vratOGp+5zdmnWH8zSmdhQKPx8GamkLFeu7BGBSz3kqnaKE0i2XrgOTc+k9bg5IW7m61kWRXgoEtChiJmjVXQAQQo2ToqBTYQpZqxa3FMJ8tN5qvP1R3tlPvFcqJxYv2ckj1gulqfQ=="
+      },
+      {
+	"icono": "https://i.ibb.co/VjDMdJC/LAS-ESTRELLAS.jpg",
+        "name": "CANAL DE LAS ESTRELLAS 2",
+        "uri": "wtAdMk6NveHZdxuoXhUZEHidGBRMT0O+KgCdKQ10AMaarE/pzQwLglr+jSzc+8AKXEujb6ymw8B7+lKDEaoK9X4sCxl0yIkdWPcJFg/1cD3RFKs7GARbfVHoPZ2AqBQyDbmvyJBup5W7PIZK6dnFcbZT7xXKicWL9nJI9YLpan0="
+      },
+      {
+	"icono": "https://i.ibb.co/Z2VtQ6X/PASIONES.jpg",
+        "name": "PASIONES",
+        "uri": "NPoV3QkMdZ0kbowMLt5myhvW/zSmkS52qV8veL+TCjWfva4+cDvViszHnrrk5iVyBwk51DEyL+TLmGGQoDiWVXCA8urlhRo6nqLhRFKJTjNoV0CzCSqPChKrshc/dWuR",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "Di8ngPZ+gH6MhZHVzc689igkT1JKgI9oqiDYPWkoEp9wv+8QnVSPxr69elIYl4fFQfo69jdU2Hs+vratOGp+5z/Tc3kDD2wGhJiQE4OOWzXqQeMRKJlP3806Jw64qaW6trT3oUI3oue+v8zDyALHo+QzbMgdXgvVNrYXDIjS+U4zqErmd2Yu4nCjbaYSA6natlPvFcqJxYv2ckj1gulqfQ=="
+      },
+      {
+	"icono": "https://i.ibb.co/9hPNwcs/tnt-novelas.jpg",
+        "name": "TNT NOVELAS",
+        "uri": "NPoV3QkMdZ0kbowMLt5mykKA14bvd9QFvzYaf/t5ikLJHI46IB4UgC1Nxf0NKMdByCSGv/1MTdG/OLQbTYjRkvcirzmGBOWJi8dpmCyFPHY=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "Di8ngPZ+gH6MhZHVzc689igkT1JKgI9oqiDYPWkoEp9wv+8QnVSPxr69elIYl4fFQfo69jdU2Hs+vratOGp+5y83KPaFm1rup7y/m4FfQCwViRpgypIUGXH1WD9wahcjxGGeIuhlaLnRr164yYu4kxZtn8uCfHGDmg8IVjR01MRVWBSsy6Voiia3NC3uAYl6tlPvFcqJxYv2ckj1gulqfQ=="
+      },
+      {
+	"icono": "https://i.ibb.co/jw7XBR3/tlnovelas.jpg",
+        "name": "TL NOVELAS",
+        "uri": "9lOsivZs9bU1T9FIG4BayRbTusnjg41yAjxUmnjutT96My0W+q9rC8N7ssw6vhI/GAt9iViKmy7jSC7GDaRVCQ=="
+      }
+    ]
+    }
 ]
