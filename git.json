@@ -901,5 +901,131 @@
         "uri": "wtAdMk6NveHZdxuoXhUZEHidGBRMT0O+KgCdKQ10AMaarE/pzQwLglr+jSzc+8AKXEujb6ymw8B7+lKDEaoK9d+EmY6ni2b+ECLa6eo4CEUvvZzj0a2h0XZWtTm9tozSFG/cQqc/v1zZgy+adv7SdA=="
       }
     ]
+  },
+	{
+    "name": "CULTURALES 🌍",
+    "samples": [
+      {
+	"icono": "https://i.ibb.co/zPDQYK7/NASA-TV.jpg",
+        "name": "NASA TV HD",
+        "uri": "HEznQrjk0KsJhsYpihPI9GAntVuXzk6BXpsPPG1UoCm2QuMNuIQkb9g4PXFagOCCMX0q7+PIHYUmoPKGV1RIPmQRz+g7ziKiOY1NiamHwv4="
+      },
+      {
+	"icono": "https://i.ibb.co/gm9sHCS/aplanet.jpg",
+        "name": "ANIMAL PLANET HD",
+        "uri": "WJV8bqurAK7+F3RgM8JvgmrrymlszGeB6TjLobsiynIift4y1VMfN9sjndCd+uFZI9qmoYG2Hjd0Qvb2+ca8EbXM7fgbeg9SZH8m4hFG6DLWhREhn04ApVXNlvnEmMwcSmQXRGgWH7Oqvz/D/0w0IQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLcaVGPvYTUVBVPtrQA5ZuFtO1suqMQrFT4Suunn5I/sYcEof1zUPos86tSOZn/BeRPT8Eb9rPLC0fXVLahBdCTYAHfYl1bovJ6oQdqv5r0rFBdkkI44u9A//ZP4YdJlPWQ=="
+      },
+      {
+	"icono": "https://i.ibb.co/RpV67TG/discovery.jpg",
+        "name": "DISCOVERY CHANNEL HD",
+        "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3Cvtm0BJyPnaEVqWlgnU56c75n7wzPQhBRo15cP/oKgF5/+D7X8ud87lQnOFOsp4GsHRwJu0r8LV6iuH3fG3JUiYso",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLTff6RfN9qs+wtAgN2Y0/5Iui02j0VbaPc++gUyWbkCL3ubDK+zxI0+0SuDDPauYiZdb0h1MAJH4oXuUkIzH0NCqS3732XnGLeuVftrPGmFSzD1fR8m4aQytlOqiEh8n7A=="
+      },
+      {
+	"icono": "https://i.ibb.co/kQBhXPm/DSC-WORLD-200.png",
+        "name": "DISCOVERY WORLD HD",
+        "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3Cvtk0VJIvyrL4z814oTQQ4GeoUirJKFacY41UcWG5GnLPX9/fEc302AKVcXIA8wax8wo2dlUAnnh93SdZhwC90add91E1rw2k8fBFtVZYzF1SSA==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLU5H17QmY9nYTNmr6YJy4PcyGLil7BmPC10u1JGhfh0beJBZTOf+TN24Js5cN71g7m3v4HqEbTuN74FkVbaQRszf4wWQrL+3U8+tlPjKKso2ZBQ7raq8dgV/LhegP7FVJA=="
+      },
+      {
+	"icono": "https://i.ibb.co/bvXWkq9/turbo.jpg",
+        "name": "DISCOVERY TURBO HD",
+        "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3Cvtkift4y1VMfN9sjndCd+uFZPMxrQgCXQSstD43oD0i8Bl0IUjHCvD9HxHEgVT9xe1M8NjGmfEiNu1g92Nkq8vvwj+v+K/hfCOrVc5iqmOLrYw==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLfkE6qYoK2zYXAzztX0CPqRjOEGBY6+rFA3/yqb/8X9v/29WzHQs4o/rbkdoZ6Lq/TxhOw56lGgADRrZrrk4QS8kToA0v5COrpEaezQEqCZNX/UyMIl6DHA014h+fDnuSg=="
+      },
+      {
+	"icono": "https://i.ibb.co/2Mgwyj7/hyh.jpg",
+        "name": "DISCOVERY H&H HD",
+        "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3Cvtm0BJyPnaEVqWlgnU56c75nGfulcKyFrbfyi2Fm+5AYNDvka4MXHhRTanUpTURg3jfYgIA0HSvOOt6UTK1cw27t8jcB3eu9YufWnFNVwVTFVSxxVsWJj247n6kWLA5hvpE=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLY8dTrOW+KlzD/eym8slQOATNw1qBCVUbNVIjthTd0JuG8r88TmHhPXKGsJmZLh1Qi8d+t78paUXakO7WU8WQgNATwJAMHjFt5bFFSLW/5mqPdBm9pr9brCmSaacbZB6/Q=="
+      },
+      {
+	"icono": "https://i.ibb.co/5L14PxM/id.jpg",
+        "name": "DISCOVERY ID HD",
+        "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3Cvtkift4y1VMfN9sjndCd+uFZf7Qy7vNBeBXeiHiL/fIwpFmR+J6PWM8EM6Gg8PGT4WI=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLRn0eBQdCYQZnzibtNTNA5d278TfcTJc5ucfBi9DpeL3BWhJxvezZAeI7ke8R2avE9uW0xF95DS9VnjOLgX/W5ed7uIX1SqDU7QU4T1+jL5evQPlKi6tM4m8r6ZI3uResw=="
+      },
+      {
+	"icono": "https://i.ibb.co/CJxHrPy/dsc-science.jpg",
+        "name": "DISCOVERY SCIENCE HD",
+        "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3Cvtk0VJIvyrL4z814oTQQ4GeoqYj26CqXixIxUQ8gMrpiXKnSX3z3+nU+dbLSzdYUURUReHBc7INGXhnr2ASVr7mqo/Wpews6Drx2dcI0dVDXRQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLQiOXQ1VMwp+qwFBgMU1kM6EEeh4G+mKD74VwZN3/P6qWXVQ1vHPrbl8GXI51syAf+afm0UdkfZZVDLgnXDvcmHmo4kkmq1ETlM6lL+g1kwzM9vtXathXr6SDva0ZIvhYw=="
+      },
+      {
+	"icono": "https://i.ibb.co/kmF6RL7/dsc-theater2.jpg",
+        "name": "DISCOVERY THEATER HD",
+        "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3Cvtk0VJIvyrL4z814oTQQ4GeoSZlcJxG7gTU39wyeYUJG3gpIMSX98ppH5ZTbyQD6+fGO7DiCbidzZaAuyjBSi2f1",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLR9MolvjaWP7wPjDysO5qDG9skDbQZybCXCkLULsdwHipgZgyMCDXdDdKgaycIdCU18B5plqDG65Zhemyc1fefI2MZeBwpOGq8cTO4NhP5aLMMlKXgQSocuT+6+VOwECBQ=="
+      },
+      {
+	"icono": "https://i.ibb.co/FndCj0h/tlc.jpg",
+        "name": "DISCOVERY TLC HD",
+        "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3Cvtk0VJIvyrL4z814oTQQ4GeoNmpybM6LXrLA1qO2YchfrzWyRypb/PQsas8Lb3g0SLU=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLfMr/BZRtIPng75s8zYf4tAH1PUFezMLHcSUwapd06aqTOHpCVb+INLSgxkx0pusBJW3FBAbxjFteGOBC1fB3pmJAaVM2VI0V5IEsUD83tZPIA8XTsaW1rfQdlH1/GOw4Q=="
+      },
+      {
+	"icono": "https://i.ibb.co/FJ0fBMY/history.jpg",
+        "name": "HISTORY CHANNEL HD",
+        "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3Cvtkift4y1VMfN9sjndCd+uFZP9nBUaWnzzOp0PCTWKosNDho86hhW8AHw6UIpr/S1V/6wES5UuHXQQpckFMJGVK4",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLUrneKqFrmizuONi/M6WrygGoJUmFJX7CFs7RFSdFAYpUATMVUZQardIg1fBt4McNP0gnb2QVSXbFmZ95GV1zUQillRbu/WMWfXvq4H0aosxRvphNLC+XNjOLttH7oIqEQ=="
+      },
+      {
+	"icono": "https://i.ibb.co/cYb7rZ5/h2.jpg",
+        "name": "HISTORY CHANNEL 2 HD",
+        "uri": "WJV8bqurAK7+F3RgM8JvgmrrymlszGeB6TjLobsiynI0VJIvyrL4z814oTQQ4Geo9oZ0gR21DeOuwTDdg8ozxR4m3IpTctcrjjXEtqwBtWw84Rxy5GmkdJD6bB73eaii",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLZD0G4+ATjv2aWeFdS7VwvABPJX+/b3QW6gR1dB5pQkpAwKkC28/L0chDH5iv2o4CLmUUfUtTnEZVDhHrJ/QtyhZhGtgh7Z+ImRKDKU2dxPK59tN15thlOQsMBDYGkJEZA=="
+      },
+      {
+	"icono": "https://i.ibb.co/6PFJqHf/nat-geo.jpg",
+        "name": "NATIONAL GEOGRAPHIC HD",
+        "uri": "WJV8bqurAK7+F3RgM8JvgmrrymlszGeB6TjLobsiynK0BJyPnaEVqWlgnU56c75ncIMrPoXv7YxjqNA4uVvkG9L4PFkMLmvN5yHzAEkQpz1pTOjncTJnhotZ1qHWAZGo",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLf7+c2OVojJ6bWie1d4rDmxX56FZ0F4Jvjs9h8LOZ2fz7ysDjR5FPe/Q4/7Mwny7QSzg3/QGyds8PCnibV04fUxArR+fbk7pK2ydVNkxtz2zKgs7Tvwn9yymFztG2Wq00g=="
+      },
+      {
+	"icono": "https://i.ibb.co/nnWCYpg/hgtv.jpg",
+        "name": "HGTV",
+        "uri": "WJV8bqurAK7+F3RgM8Jvgksd1Eoks4tYxsC5W79oGwwift4y1VMfN9sjndCd+uFZ5jXob8s5+w0qRj+3BczzMPlvxRZMrdoKshUbLi6pWCAw40J+62NLY08eenYN6nh/Fnjn4IJVBTF1IjMM3MeJzw==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "zHg7TiMiZQXpasLkGtDjlcAX+Co5oDoMVdLUIjyxUsS0LvPvzOXH1tYgynNpV4bt"
+      },
+      {
+	"icono": "https://i.ibb.co/9bJ3cxp/ar-film-arts-m.png",
+        "name": "FILM AND ARTS HD",
+        "uri": "HpBA2S+i7SGDMHwN5+E66YIVPHNOFIozLh2zPfGlOTDSh7Oi25Dsie9XcVwu797cs1sx6u6/z2o+Gy83Rb9PELY9fSBZRHbxphhWE2AAcjuNyUKHTyyRTa9d/EBr2L00",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLfGdwVJrlTG5iAPSUeWN1N37TFsR/mV3aUymlGuuyCO/mgF4pmC+qZxv/0mJ3rnF50D2wjRrqoxYjVaHKGdmTeKibivE23Ucijq7bn7AipdDdVoorQkLH1SObf8PwW5kcA=="
+      },
+      {
+	"icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
+        "name": "SABER MAS HD",
+        "uri": "8nOynnXSejkP9mq28SBp7YSufz5TPrlCkJf+Jik4lb6SxDDKUmicGymM1B0hCVQLypkwRNSp9pMFCEDzf2ADtA=="
+
+      },
+      {
+	"icono": "https://i.ibb.co/BLr5HXh/love-nature.jpg",
+        "name": "LOVE NATURE HD",
+        "uri": "JdbJScQd4bCrA5UQ2bJagAe6BWxSrCKq9pqqJS/ZD63+pm8CnFrsBm2ihhThUMNTUcbaxAto6jzUXBHB3fgHDA=="
+
+      },
+      {
+	"icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpca1NdIRpdEPipnhoQ540T7FfCj3hUbcvtYj_FxOI0utL4-kMScby5T1F5vwsch0h8u8&usqp=CAU",
+        "name": "NATURE TIME HD",
+        "uri": "P4iofs4/LLm0fAh6inyoZ6LqCrcU07TF7WbkB9tXDxBL/iSzzVbhkNkc3/apfjWvSqly0J9omlZ9p/CKz5fS2w=="
+
+      }
+    ]
   }
 ]
