@@ -1027,5 +1027,99 @@
 
       }
     ]
+  },
+	{
+    "name": "INFANTILES 🎨",
+    "samples": [
+      {
+	"icono": "https://i.ibb.co/xYPjLzm/dream-works.jpg",
+        "name": "DREAM WORKS CHANNEL HD",
+        "uri": "WJV8bqurAK7+F3RgM8JvgkfyBetFnOWEFMdrCftD6JQift4y1VMfN9sjndCd+uFZgn7PFc6+jl7Q+n/ZTBiIR2LxazBQ4fVI5bnZ+AUWcnpY7fA8+ws5OdDRUBBHhbQT",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLbNLdI3DsbW6Tjy4edfdR/BZweP8NJYeNelVNoDJfP2G/kJ6knrSJRSgpWqHHGpsUoVltUe5eRCFIPTUx86fx4hnCuJQXRoTP9xjkwRF3GBb9CpeHjDBUX/qIyurTp/RNA=="
+      },
+      {
+	"icono": "https://i.ibb.co/PQ3YCX0/CARTOONITO-HD.jpg",
+        "name": "CARTONCITO HD",
+        "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3Cvtkift4y1VMfN9sjndCd+uFZvnLJkZN/AlT/YnBq/3iGRh8KTeFeKWGdW8sBaXmv67sAyMoslMLQkXT1nC4lpS86",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLeSrghgoA0Z7CMiJztMuqoRAlwbFjppXixdTISbOVCsai/f6BlcUmq4NVm9vZsEFmQVh3v7e44Z3Lxn8jE56saCUu/IzFqgyLwvNcbiY8QCb7RBh0q7kKIRdEceCAlwJkg=="
+      },
+      {
+	"icono": "https://i.ibb.co/WKWBgtt/CN.jpg",
+        "name": "CARTOON NETWORT HD",
+        "uri": "gsrjcIvt9yhsliaC/KME78KRbQkdDQu8xmFywHcZ0HDB/y/+tZR1r2WERbqmS9Z0is9sTLMgEqz9gUi2cLiFypYx9kM3CHYvYeVy7b04m+k="
+
+      },
+      {
+	"icono": "https://i.ibb.co/6WQV7sL/DISCOVERY-KIDS.jpg",
+        "name": "DISCOVERY KIDS HD",
+        "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3Cvtk0VJIvyrL4z814oTQQ4GeocV2t4K6iIcshKa9VG5VO2l0IUjHCvD9HxHEgVT9xe1MXhrqUB4+Pvlwk/axqRjpcE4xuvLMjpfX3AXqZYtH7VA==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLfYFwN8PCsy/mJGzkSPPvFPJRouH2Gh0mOoFls5T4lq5NG66iLUABBwhDZEY3uxkMUy7wy42AwP7DnvejHkn218zNmRhBYJUANvQ2CxKvtMQKByZK1CAVyC7yIwihFp3IQ=="
+      },
+      {
+	"icono": "https://i.ibb.co/pRqgs3Y/TONCAST.jpg",
+        "name": "TOONCAST HD",
+        "uri": "WJV8bqurAK7+F3RgM8JvgvW3oBgTKX7lWuLi6I9dwSg0VJIvyrL4z814oTQQ4GeoAVpfl19N/SuSt8iiOFeIBrAX+kBcJ4WRnWOpWWbSAJCLTSpiiEBeieze9iIQJH8d",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLQxnpzBcqHt/DkmfUdb4LPXl/YffHKjzUJ0S6jWv+Ks7/UPRlXGtPyIPdlcQn+hG+Nh+Ty6cSBhmNJUermbsFEPAfWtDD6ui5k4rD/3cgQeDd8UGnqE+qFKCVUbEer/+yQ=="
+      },
+      {
+	"icono": "https://i.ibb.co/V3NgP4f/DISNEY.jpg",
+        "name": "DISNEY CHANNEL HD",
+        "uri": "WJV8bqurAK7+F3RgM8JvgvW3oBgTKX7lWuLi6I9dwSi0BJyPnaEVqWlgnU56c75npzYg59AnohEyRaBA1nSOZPlvxRZMrdoKshUbLi6pWCB4vTyZiUK33O6RpS59qGEwXsVo3o3ngjPQoFa9aYmucg==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLYB2fcZB1uinV2PF0pA4PiU08XeS7YBCHvdvHqgSwxJY6KL+HjX8reHNccBB32CIIsoy+oGhVLEGgSfkufXGmDemYtWmfFldZkfyybyid01SIZP7bpbhyVtfFBavs7tLNA=="
+      },
+      {
+	"icono": "https://i.ibb.co/DgTpQzM/DISNEY-JR.jpg",
+        "name": "DISNEY JUNIOR HD",
+        "uri": "WJV8bqurAK7+F3RgM8JvgvW3oBgTKX7lWuLi6I9dwSgift4y1VMfN9sjndCd+uFZHYXldr/HFEuQ7TxVlUYdGNL4PFkMLmvN5yHzAEkQpz15JIIVeg7BVv9a9FwiTMxQ",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLbLK6WFodepzWMP/Gj5NmLjZko/wD96LH8nwFCKunYskyTxsnuAtZxcs5nG/vnaGSmdDqZTXZ7SxxdsFVq4H9ksoLKiXInnbp+reeX/HtW3f82Bw1wfQjdI04gk3vsa24Q=="
+      },
+      {
+	"icono": "https://i.ibb.co/Kjbx3gs/NICKELODEON-HD.jpg",
+        "name": "NICKELEDEON HD",
+        "uri": "WJV8bqurAK7+F3RgM8JvgvW3oBgTKX7lWuLi6I9dwSi0BJyPnaEVqWlgnU56c75nGLiadG+6Ln8JJGAVeUoPgYlL9TXvIWR+PpRWjp3AtSOonl+D6qRVqoeO8fCK0hs7+GNwY236KpkuVaXkQoaYLw==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLdTy1AQcYdRUDs202pcrzSMJJoKr2KQQhs1rygE5kjhbcpN5wZsIoU3BRVUMIPRLtPDELx7xPsFbbLGyJD2AX2odXT8vZ6ZRcPeMDUvVIMbZ6nECF9LTCSfgk8XE3jhR7w=="
+      },
+      {
+	"icono": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/TEENNICK/EXPORTACION_WEB/SS/TEENNICK_t-290x163.png",
+        "name": "TEENNICK HD",
+        "uri": "Jp71pzxnx0A8jz/n1HxEiULAElOr7s77MJ7NbWDF8D+p8CLnb1XtIWaO/RTN/KfFmLVisux5PhrRA31HGj+k1haQVSC6C4/gvRh2cRS6VBOoOz52+Vnw68DQIMvSehTXsPu4uh9hKglOV6jBG67+0g=="
+      },
+      {
+	"icono": "https://i.ibb.co/Kz0HGby/NICK-JR-HD.jpg",
+        "name": "NICKELODEON JUNIOR HD",
+        "uri": "WJV8bqurAK7+F3RgM8Jvglcjgat7uiaxwth7a3XqWe80VJIvyrL4z814oTQQ4Geo/iqOBc+P9n+naCrmBQf8mrUAjFWgiSVZ3J5ENYzrVl3omYPpcFpulZGIMLxQh5Tt",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLUrneKqFrmizuONi/M6Wryg7bmVdKxGD0lGBgm1AtdWPzTcfgiMvo10hX3XxRPkk0oeFDeJpZIUF02xUdsiPSLoF4r2R4OM4kBTTDzATUD9+OID8zeOGCp2kaDikVXFIRw=="
+      },
+      {
+	"icono": "https://i.ibb.co/WKpRQDv/LEGO.jpg",
+        "name": "LEGO HD",
+        "uri": "w4TCF9AK6a4SC630uE/JnDkFBv1YILcdwGxJMxRvkCxzo2U6LMkvbnouiQQdejzKe+KtlpdaZ4wEMER3bXewB9rTa48sZoyykzx52V7WCtSAEPMPFpNdfWu/Gv7tSVKHVgjexfBfcXVs4Ny04u44yQ=="
+      },
+      {
+	"icono": "https://i.ibb.co/dBQnN6G/paka-paka1.png",
+        "name": "PAKA PAKA HD",
+        "uri": "+mT08g6rT8a7nKN+039JpvsbEIAePXi9LEr/xINF8pBQzZsMX91PIbLvhdf5I1gqGdsyoArGRGjisqzrRdn7GhLDlV43y75X5c5ujGGf6yHsBTHkPjUqkiVWoMBKI2XM",
+	"drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLY5ER/OQC5hYrUHiYgNleuNcmOfetiLShhjtbY9enMIiFfFqn1FCbvVf+HGdZ9eDZ6rx8Iyr1B53MtKnkvDDWxWSrt3zAWdzPlKdjBDcaYCtk33LJpty0ySkOIYcd8dChQ=="
+      },
+      {
+	"icono": "https://i.ibb.co/N6d4qn3/BABY-SHARK.jpg",
+        "name": "BABY SHARK TV HD",
+        "uri": "nx9CNzOQu3SS6QyYRTFlWvz5EIVPW5penRRwAMunZEuzVsne48SxANIKqpd6eeJ+pDIrMHGriZVrifdb7UNI9w=="
+      },
+      {
+	"icono": "https://i.ibb.co/GvPYcD6/TOON-GOOGLES-HD.jpg",
+        "name": "TOON GOOGLES HD",
+        "uri": "CTjyX3vnRiEI3U07MibGXEwBrUGMtouGVJLDOWkol6hsickaZkCqle3kgusZVssRlvfbKqdz3/c3XhPqskZ3M6ivQmS06PjcQ3LIfy/wABg="
+      }
+    ]
   }
 ]
