@@ -23,11 +23,6 @@
         "name": "TIGO BOLIVIA",
         "uri": "OkQf+VNCGUJ/r+NRQt8rUHDa1bIEOePPSqAr6w5Cwjd6qEdwknu1883GWgKMUozA+ao0lCE/8qMbKZ1AcUcKEn0dNm653d8wqrWtKHAatUM1N9rFh5uH/P6dk9oSK4zF",
         "icono": "https://i.ibb.co/Bgp2KWz/tigo-bolivia.jpg"
-      },
-      {
-        "name": "TIGO GUATEMALA",
-        "uri": "OkQf+VNCGUJ/r+NRQt8rUHDa1bIEOePPSqAr6w5Cwjd6qEdwknu1883GWgKMUozA+ao0lCE/8qMbKZ1AcUcKEn0dNm653d8wqrWtKHAatUM1N9rFh5uH/P6dk9oSK4zF",
-        "icono": "https://i.ibb.co/Bgp2KWz/tigo-bolivia.jpg"
       }
     ]
   },
@@ -185,11 +180,7 @@
     "samples": [
 
 
-	    {
-	      "icono": "https://i.ibb.co/Lk93kRq/Gran-Hermano.jpg",
-        "name": "GRAN HERMANO HD",
-        "uri": "+mT08g6rT8a7nKN+039JpvsbEIAePXi9LEr/xINF8pCKxFpOmuTbVlJSbYx5SyV6BqH8Pd7jz5+nG+O4nE73mkT1Wc32QOIa4Fwxp8NdYq5MY54lhwErcDx7yF6uUq+IHXydWpZTU+eGdX4yaDyHZ+SoGqiLRlj9LESEJgkW40ftNc1hefT68w7GSMTszaz7u08+YnoAtRG6o1RythD7yrZwAfW+pevmNOEVJ5meidAGoyZK8nOB1XW/SEKfib2RycP3rajNlYH3JcDSf3kLQzTJp4LcKuJOk9j4544dy5gEc65O9fGUUcqwUaedrbYQ2FVAXZ04/drSdZCZ5KX38d3S38t7J7NPjoj/iaw12p24yrm3Z2vJmrc8F+Ywu9cjESSIoTPvfJ25RvpA45OvPJ2jrnPQDjPyfYtbvY4vQ3cVEYYbZ9vBUq1eqZmNklh1vGJOMJa26HP1KUJlDBN1sdtep9A4AdcRa1raXzlL73dDG/vkXihYkxi6hp+pYyX9vW8yoh5u12wYezi/ArYVPsCOtU4DPa0rCF6UNhf5diVbg9o13CkFCO5sQyEKBv71MNcDFMuF3KqeDD4VuYzE7nchvwJYmpbCtaQCbA0krI+V6KoTMzCpAfLtnhaoSGU+RSNjdYjjENNbH9OsbyZIKNc8WxOsmze0Gj8kfWtHYHPkUeFsA=="
-         },
+	
       {
 	      "icono": "http://static.tvar.io/imagenes/telefe.png",
         "name": "TELEFE HD",
