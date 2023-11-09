@@ -1183,6 +1183,18 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "Di8ngPZ+gH6MhZHVzc689igkT1JKgI9oqiDYPWkoEp9wv+8QnVSPxr69elIYl4fFQfo69jdU2Hs+vratOGp+5z/Tc3kDD2wGhJiQE4OOWzXqQeMRKJlP3806Jw64qaW6trT3oUI3oue+v8zDyALHo+QzbMgdXgvVNrYXDIjS+U4zqErmd2Yu4nCjbaYSA6natlPvFcqJxYv2ckj1gulqfQ=="
       },
+	{
+	"icono": "https://i.ibb.co/cNvyjF8/telemundo.jpg",
+        "name": "TELEMUNDO INTERNACIONAL",
+        "uri": "WJV8bqurAK7+F3RgM8JvgkC8YcDjvRPvgEOd50bezo8ift4y1VMfN9sjndCd+uFZiNLC1/0jtXVLB1DYTLNTEisqxBrh17/AL+z4LzRF34uh6mHLffcChkVFhC+B4o37Anh4htz1kfz3bhMtKVNHAw==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLdRM5QMeHTgpfA3uGDCRJMmh/9VFPFB1tGB8ZZ2xYDeTDh12TsO5Jva5GJU86P+6WxxjzZx/YzycO/6xanuQqisSSzvkWarytGcoIA48DHP9qf3qiTlwztPrLVXYTdddKA=="
+      },
+	 {
+	"icono": "https://i.ibb.co/cNvyjF8/telemundo.jpg",
+        "name": "TELEMUNDO INTETNACIONAL 2",
+        "uri": "wtAdMk6NveHZdxuoXhUZEHidGBRMT0O+KgCdKQ10AMaarE/pzQwLglr+jSzc+8AKXEujb6ymw8B7+lKDEaoK9V5eUNWaB+R4IbQT8kQutM8s4fyYhQPhRME5VRBU6j5mtlPvFcqJxYv2ckj1gulqfQ=="
+      },
       {
 	"icono": "https://i.ibb.co/9hPNwcs/tnt-novelas.jpg",
         "name": "TNT NOVELAS",
