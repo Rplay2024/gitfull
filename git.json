@@ -122,14 +122,14 @@
 
       },
       {
-        "icono": "http://static.tvar.io/imagenes/canalpro.png",
+        "icono": "https://i.ibb.co/c6Gf2k1/canal-pro.jpg",
         "name": "CANAL PRO",
         "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3Cvtkift4y1VMfN9sjndCd+uFZKUmcdBoRZ2ey6jIxjL3iNRijXfUSSQNVNEbMCwz7QzzoXET4cFTABTPEo82EOV6n",
         "drm_scheme": "clearkey",
         "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLYWvQ7/ULAJlyWwnhw+DacsdJabTtB47jq3Jz3mjsitCW5v4KtzFhXQFMDIb7eWmARAaGO7nkU/NPzeJJZqVFFKKXGpbKsBHZ5ubtOum5iaznJxIxn57v2sJL1ei7tc5TQ=="
       },
       {
-        "icono": "http://static.tvar.io/imagenes/5diaspy.png",
+        "icono": "https://i.ibb.co/D8ph8Kb/5-dias.jpg",
         "name": "5 DIAS PY",
         "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3CvtnpE8cZFwqPR2LsK70gxmr+gPpe5t3SkUdlyY+xGf98r8btkzTFlLizCBjFz6QvuBbQwgvHida/w9BVQKM/y9H7",
         "drm_scheme": "clearkey",
@@ -154,7 +154,7 @@
         "uri": "wtAdMk6NveHZdxuoXhUZEHidGBRMT0O+KgCdKQ10AMaarE/pzQwLglr+jSzc+8AKXEujb6ymw8B7+lKDEaoK9RMZCmDsK1alaX6hJDFIt4T+Mh+FZrghr9k+6tIOsIOltlPvFcqJxYv2ckj1gulqfQ=="
       },
       {
-        "icono": "https://television.com.py/wp-content/uploads/2018/11/%C3%91andut%C3%AD-TV.jpg",
+        "icono": "https://i.ibb.co/cvKjZbf/anduti1.jpg",
         "name": "ÑANDUTI TV",
         "uri": "Aje9PX2Ur9frwuH8JZtEIiuDbNXb4fwbgRoAGFfBPfkwW8TpNbQ6G8VgmbPzrr2ftlPvFcqJxYv2ckj1gulqfQ=="
       },
@@ -184,7 +184,12 @@
     "name": "ARGENTINA  🇦🇷",
     "samples": [
 
-      
+
+	    {
+	      "icono": "https://i.ibb.co/Lk93kRq/Gran-Hermano.jpg",
+        "name": "GRAN HERMANO HD",
+        "uri": "+mT08g6rT8a7nKN+039JpvsbEIAePXi9LEr/xINF8pCKxFpOmuTbVlJSbYx5SyV6BqH8Pd7jz5+nG+O4nE73mkT1Wc32QOIa4Fwxp8NdYq5MY54lhwErcDx7yF6uUq+IHXydWpZTU+eGdX4yaDyHZ+SoGqiLRlj9LESEJgkW40ftNc1hefT68w7GSMTszaz7u08+YnoAtRG6o1RythD7yrZwAfW+pevmNOEVJ5meidAGoyZK8nOB1XW/SEKfib2RycP3rajNlYH3JcDSf3kLQzTJp4LcKuJOk9j4544dy5gEc65O9fGUUcqwUaedrbYQ2FVAXZ04/drSdZCZ5KX38d3S38t7J7NPjoj/iaw12p24yrm3Z2vJmrc8F+Ywu9cjESSIoTPvfJ25RvpA45OvPJ2jrnPQDjPyfYtbvY4vQ3cVEYYbZ9vBUq1eqZmNklh1vGJOMJa26HP1KUJlDBN1sdtep9A4AdcRa1raXzlL73dDG/vkXihYkxi6hp+pYyX9vW8yoh5u12wYezi/ArYVPsCOtU4DPa0rCF6UNhf5diVbg9o13CkFCO5sQyEKBv71MNcDFMuF3KqeDD4VuYzE7nchvwJYmpbCtaQCbA0krI+V6KoTMzCpAfLtnhaoSGU+RSNjdYjjENNbH9OsbyZIKNc8WxOsmze0Gj8kfWtHYHPkUeFsA=="
+         },
       {
 	      "icono": "http://static.tvar.io/imagenes/telefe.png",
         "name": "TELEFE HD",
@@ -273,12 +278,12 @@
     "name": "BRASIL  🇧🇷",
     "samples": [
       {
-	"icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
+	"icono": "https://i.ibb.co/k0ZwYr2/CNN1.png",
         "name": "CNN HD",
         "uri": "tH2dEtE9NSUYBg3R4/WIP/jhK1A2GwBjSjrpYw2S8OkE6FnFjDLDG1VogsGhmQPyTIj/klJ6TjxwCHDvEiJI7IqLQrWA+n6QP5h3SrYvU31zA6pz4VC99a48PDVVCsPD"
       },
 	{
-	"icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
+	"icono": "https://i.ibb.co/k0ZwYr2/CNN1.png",
         "name": "CNN FHD",
         "uri": "F0BMomzWcJ1klLRwcNmmbZ3cGzLu1uajZs+dStf1JYN678seGT7BDPz43I9ENUCIwb3uCf/bfeEpddTiKXW56Q=="
       },
