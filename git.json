@@ -282,11 +282,36 @@
         "name": "CNN FHD",
         "uri": "F0BMomzWcJ1klLRwcNmmbZ3cGzLu1uajZs+dStf1JYN678seGT7BDPz43I9ENUCIwb3uCf/bfeEpddTiKXW56Q=="
       },
-      {
-	"icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
+	{
+	"icono": "https://i.ibb.co/frhyQbg/globo.png",
         "name": "GLOBO TV HD",
         "uri": "sXsJvoRPp87vZmFztXr/cQ9gJjtAEkMjZmUnPkD5s082mEQuEnHPGdDUNryDjQTjNTfaxYebh/z+nZPaEiuMxQ=="
         
+      },
+      {
+	"icono": "https://i.ibb.co/Pjbmb9J/sbt.png",
+        "name": "SBT HD",
+        "uri": "http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8"
+      },
+      {
+	"icono": "https://i.ibb.co/k8kv9XG/JP-NEWS.jpg",
+        "name": "JP NEWS HD HD",
+        "uri": "c0vX3rM/40kLxw618RA9rvpaE+s5n7E8yrviRustWqxHt2m7hopiRNMHEZegS59kFw3yM5Z+13KUgo6T5zm5xZ2oKnDcI8RZJQlMan249QpRuL0DTA//VY450iJzsm92"
+      },
+      {
+	"icono": "https://i.ibb.co/Z6zvMPP/png-transparent-tv-bandeirantes-campinas-logo-tv-bandeirantes-rio-de-janeiro-band-logo-band-brand.png",
+        "name": "BAND HD",
+        "uri": "WWyL3sTqF1ZKg9CMTTE/7F5fhgKCJlJxgKTta6w/+R48nlZvDt79gfXpqe2phx1eB8BC1lDZWCn+h73elqRHs7ZT7xXKicWL9nJI9YLpan0="
+      },
+      {
+	"icono": "https://i.ibb.co/M1tmcNd/1454129-middle.png",
+        "name": "RECORD NEWS HD",
+        "uri": "tH2dEtE9NSUYBg3R4/WIP/jhK1A2GwBjSjrpYw2S8OkE6FnFjDLDG1VogsGhmQPyTIj/klJ6TjxwCHDvEiJI7LxIhXxmpHXxY4+YbqCm0eTYDYj8svsRH91VyQgaNmW1"
+      },
+      {
+	"icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
+        "name": "TV NOVA PLAY HD",
+        "uri": "wgazxWgMGNJqCfjAk/UwwfrN8HRrj+YAn5dsOV6bde+oAe0Il+hxFzCt5me82a3PMj06WuwMKGWucI7ZtjHfhg=="
       }
     ]
     },
