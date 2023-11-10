@@ -167,12 +167,8 @@
         "icono": "https://i.ibb.co/Wtzp7wR/rcc.jpg",
         "name": "RCC TV",
         "uri": "EtuJuanOnoWpmQ427dmwINK97Wsr0UMkvPZzvKihyuw6SSMz8tl4HyZEbTbS79Gaykw77tnwvaMvXLKBx3bFGEqpctCfaJpWfafwis+X0ts="
-      },
-      {
-        "icono": "https://i.ibb.co/s51CsHZ/MEGA-TV.jpg",
-        "name": "MAXIMA TV",
-        "uri": "PMUa25xyIv86VZnOoqdvDN0ZOfHXSuhvr2V5nXHsMAejupMnRp8xqEp8OVdVy4pA"
-      }  
+      }
+       
     ]
   },
   {
@@ -1221,5 +1217,68 @@
         "uri": "9lOsivZs9bU1T9FIG4BayRbTusnjg41yAjxUmnjutT96My0W+q9rC8N7ssw6vhI/GAt9iViKmy7jSC7GDaRVCQ=="
       }
     ]
-    }
+    },
+	{
+    "name": "MUSICAS 🎼🎶",
+    "samples": [
+      {
+	"icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
+        "name": "MTV",
+        "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3Cvtk0VJIvyrL4z814oTQQ4Geoz2W8ISmQUF+OYcqRBbeKBA9cqgQkdwVmVAHk7hjWoDL4Y3BjbfoqmS5VpeRChpgv",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLUB5fxn+I/7j5ob+XmcEqbXbJw034oOobrpShE4/5ebT3AEbJpvbO6p6THuDv/yP7s1RtdqU73GcugG3CPjZDUAsRCb60F6ptRfNsDGutIH4pg4HQK6nrreTPJiaoCah8Q=="
+      },
+      {
+	"icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
+        "name": "MTV LIVE",
+        "uri": "wtAdMk6NveHZdxuoXhUZEHidGBRMT0O+KgCdKQ10AMaarE/pzQwLglr+jSzc+8AKXEujb6ymw8B7+lKDEaoK9WI0JxpCtGFPATihzzT+mLG+7XQTpuinr5JAJPo1lAC8NTfaxYebh/z+nZPaEiuMxQ=="
+      },
+      {
+	"icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
+        "name": "MTV HITS",
+        "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3Cvtk0VJIvyrL4z814oTQQ4GeoXki5i2AFS5k/sgKukcB/yhI7Ak39tiivOjtkj/Ej2GSNyUKHTyyRTa9d/EBr2L00",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLXwcFYIZ5szC85RUjXb6Q5oXeQz4JDQkptkvvSqXH2olQb+dpdEnDCC8QUTXDd222H9b0ic71bUL4osTVu9UZGngERsL4Wb+n4DQshWt0WTU8CmV8pvWwX0TDLusPC6M1Q=="
+      },
+      {
+	"icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
+        "name": "MTV 00S",
+        "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3Cvtkift4y1VMfN9sjndCd+uFZmRTcpD+qc2+B5FGvzW1ffAPhESD9ZqpS7LcBxNDJ/a+2U+8VyonFi/ZySPWC6Wp9",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLa4pgdywTnVPZb7oBDyi7ak1bWS1TsmWHZo2gdGJUR/7MyIDoFWHBgUVKFd6cAW+qUBL571IUiwfTGh6aklCpg+2YQT5XK2Hrr5EPVzsdOt+0zdisqoSJYVEr414qV5BJQ=="
+      },
+      {
+	"icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
+        "name": "FLOW MUSIC",
+        "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3Cvtkift4y1VMfN9sjndCd+uFZSeURTDE4ZzLjUS9P8SQqpvjl3OT74+b37nU7CCkJIXXOifypnM9dDs8FYUqoBcqGtlPvFcqJxYv2ckj1gulqfQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLT6DHcp7GSW0q08KqKJni+By6yVP1ONGg1e6oE+tDHs925bNGFPdYTq2G22vzpilY08f5cnBgmGPJkcB7Zl3jTG541OjzEVxuXALCdu9cATtk33LJpty0ySkOIYcd8dChQ=="
+      },
+      {
+	"icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
+        "name": "RETRO MUSIC TV",
+        "uri": "cixlETxFNcXXJyvUCi0YYtMmD8I80wFNiC3r1vnp5X2qwrvI4F0DgGNYhzme+MrkY5OnRBadmTt4qGVkVA6d9EqpctCfaJpWfafwis+X0ts="
+      },
+      {
+	"icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
+        "name": "QUIERO MUSICA TV",
+        "uri": "wtAdMk6NveHZdxuoXhUZEHidGBRMT0O+KgCdKQ10AMaarE/pzQwLglr+jSzc+8AKXEujb6ymw8B7+lKDEaoK9Y77QKJ2phbtBwtApCeJHjFzkFMpS41gz4dw/zbXWu4muA0+OC7dcrIEmUvZ7YX9Tg=="
+      },
+      {
+	"icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
+        "name": "VH1",
+        "uri": "hmbBp5wEKG0seIznsvyBWzJ0YE9gtZJKAeLgov7iCU7RfOAWUkEiyd66dg/QPT/ZqnOkYq96K+Ev4dgJ6SjpzCg/dJtsfmVSiTQtmI3b21Q="
+      },
+      {
+	"icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
+        "name": "HITS 360",
+        "uri": "yd3apaBBZfLyTyRqeDxHX0w6N8TueWQB6vJL4/VrdYgUr/PoWi2n3z6Ueg0HMa6JPP6Z3UXxFFcGx/0k6QKsV0qpctCfaJpWfafwis+X0ts="
+      },
+      {
+	"icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
+        "name": "POP MEDIA",
+        "uri": "5XEfIJuuUbyw22jHwrGMgBi4gPHtRLpbjORXDkW+jF4Ub9xCpz+/XNmDL5p2/tJ0"
+      }
+    ]
+  }
 ]
