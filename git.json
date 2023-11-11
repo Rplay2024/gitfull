@@ -1148,9 +1148,19 @@
         "uri": "JdbJScQd4bCrA5UQ2bJagAe6BWxSrCKq9pqqJS/ZD63+pm8CnFrsBm2ihhThUMNTau3Y97L3Y4e8AXT/VL8VkfwrOES58S3wMlFLyNQn9Q/6wAlIjnNcAHyFL5x3HDiI"
          },
 	{
+	"icono": "https://i.ibb.co/6Xf2YsR/SUPER-CAMPEONES.jpg",
+        "name": "SUPER CAMPEONES",
+        "uri": "nBdgmQNRG5WXj75wkenpgKqv7qKsXBE/uLKENuiDS2ivkvY8lBXXtUjQqsyyDvoviwDtW6j7JPTVfTEzNALfnw=="
+         },
+	{
 	"icono": "https://static.wikia.nocookie.net/nickelodeon/images/7/7c/0849856001367215694xpLMBaVDh5.jpg/revision/latest?cb=20150215163826&path-prefix=es",
         "name": "LOS PADRINOS MAGICOS",
         "uri": "nBdgmQNRG5WXj75wkenpgEcPf2H7S1MxneWb5oEbEC5OKg8APoidkMQUykz8pS9md+tGtXQwnY/No0c9XRh+GQ=="
+         },
+	{
+	"icono": "https://i.ibb.co/YPkVQ07/pepa1.jpg",
+        "name": "PEPA PING",
+        "uri": "tH2dEtE9NSUYBg3R4/WIP/jhK1A2GwBjSjrpYw2S8OkE6FnFjDLDG1VogsGhmQPyTIj/klJ6TjxwCHDvEiJI7BBoZyCD8WPvnLgWb8XN8PU3qnmjnBSsyqHqODLwCTIR"
          },
 	 {
 	"icono": "https://i.ibb.co/3NJBSSw/naruto1.jpg",
@@ -1158,7 +1168,7 @@
         "uri": "0pQZHzMHGDj2PsElADbb+1puAFOP7atDkpODw2ssOR3PJRZwW3trf05SxEWFkTngePL8GMJo1z4Jsn1+/qG6Rd9InbdYLAKCrGYXzXgVbZ82VLquwJRJMZDPJYxMqiud3x8Kpfe/ooh6gP+OC5dEpdyIfA9GncjlNj67na7N3zMQODGoqVPToaW/C+qkt4NiUy0eUN8TvL1aGypvLl7o+XLUSbQfaUNhPcwLObibPg+PMfqefgFeVdjjZ57LenjIrWOwJmh2r0XNz9AKV/rXk+RxCwjdIqC2aV77EXocsz/7d9Cmz2y6ifs2CBNs2DgcMp/7Pe7/NW6MooAgpTUYSlKRQxVHgKr1Szrdqomjlya3B/MyILfPQxVzKZzPX7G3CZYjqLq1mYyIw3+5zMpCIdtjnix4JSuOn2D6rgbnrfLgtHnIBYRkep/zgBa2090I1HwsycCJBBe23ukiAAiB5Ex0eC2hB9+gdiu1uvyPvMB0J57hsyGSEKuOis+qB1Gs5cwO+9vdqv5hR7WlZrY8OGQD0XCDLKu69f1hp1N6xQ1NOZU8lV89DDzQvvQ3Jh9r0wPIoMX6PIZoVdmnq41J5A=="
       },
 	{
-	"icono": "https://i.ibb.co/3NJBSSw/naruto1.jpg",
+	"icono": "https://i.ibb.co/ZJp1hQH/bob1.jpg",
         "name": "BOB ESPONJA",
         "uri": "OuLavbgpPPk3CP2e5ZL6bTJVrvogy/tzfnWFJMRokEiOihpuUaDvk91YuMnSUQCjTFRDdRwhqyHgWZA37HnGCo5ueWo/otRjS9ge3sqzQZmpVlE3JVhcnyOZu4tbILFkiG+fd4lNaErPBHCCK832veDPuQIwlSePVp0dv4YBbQiwL9qoD4ApqSDbEL6ft4cjUZ6hQustgAmDckAt8Fy12inf1kyY7YEJ+DaVyRmI3HBbk9nES+ih76EmnuX/HWvL6GvvQMNmFx7Q6XUl5yR53Q=="
       },
@@ -1170,7 +1180,7 @@
       {
 	"icono": "https://i.ibb.co/9Ny1YQF/los-simson1.jpg",
         "name": "LOS SIMPSON DE 6 AL 10",
-        "uri": "9lOsivZs9bU1T9FIG4BayRbTusnjg41yAjxUmnjutT96My0W+q9rC8N7ssw6vhI/GAt9iViKmy7jSC7GDaRVCQ=="
+        "uri": "yGy9gc9kAdsEvJXtBnIecwKyRoXeE94qy0x/6IKW5C+LDw6Eqy8b1zaTiYz3Z4raXyqUVSivs98gIdMx4JGHcQ=="
       }
     ]
     },
