@@ -1497,5 +1497,64 @@
        }
 	
     ]
-  }
+  },
+{
+    "name": "PELICULAS DE ESTRENOS 📺📽",
+    "samples": [
+      {
+	"icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjVOaD8DkNj-oo70-qs8vRDGVgxHIBzcoHhWzrQoe-C_QcVTzd",
+        "name": "A TRAVEZ DE MI VENTANA",
+        "uri": "C9WEWk+QuQ48RfO9XTDzGCAZBVCAAvhH/FnaghhwPKjDKNeXh2g6pHd2hhCdFleFXItoiUofRmm4l+u4R4gIZxWLHL4H3FBAQSgTVUu2pdxU4WKGkGNpdOLxI5qKe6DP"
+      },
+     {
+	"icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJc2kDarIDGph_V6Qb0ooXFXhxZdhnif9GUOTih60DncDB9LLu",
+        "name": "SONIDOS DE LA LIBERTAD",
+        "uri": "C9WEWk+QuQ48RfO9XTDzGCAZBVCAAvhH/FnaghhwPKjDKNeXh2g6pHd2hhCdFleFwFqfwnm7iXF3ghfizXTCitW+AAfoZpe/5bixY1fCxHwz5lTfR6NCB+Vy3SwdnfmP"
+      },
+      {
+	"icono": "https://i.ibb.co/NV252Px/magic-mike.jpg",
+        "name": "EL ÚLTIMO BAILE DE MAGIC MIKE (2023)",
+        "uri": "/p3qhnmHbJQiMcdCF3GVxrremsBC5JefVmyt3R8Ab5q4X2+rpNRFr2yjO/3CbDzBZKqjHhNQiPR+S7konnBaQrZT7xXKicWL9nJI9YLpan0="
+        },
+      {
+	"icono": "https://static.cinepolis.com/img/peliculas/43372/1/1/43372.jpg",
+        "name": "LA MONJA 2023",
+        "uri": "YG7bv8GB4uHhjKV9KDxOysFXv32Wh/UyYCO+Q/JHMfmqp7JPWlf0GFt4Kb/Aa4T8kgHJgeKttVF0lT8RUZyvSA+75aM56e/EeRVBF2578RicY8ox2mkKCbVPg5P/8FtVWD8BJ3s428PL5f/IC2PEpaQJ4Qof7H08Pr4NCN+OEE4m1yPo1pqQtfMHJtPW89QvgOy3fG5NcufzqvJza5RNk44x5MlvSYj3QjcWdNi/2sVzfHAaMVr24nYIfUiGHzXG"
+        },
+      {
+	"icono": "https://gluc.mx/u/fotografias/m/2023/6/16/f768x1-101247_101374_156.jpg",
+        "name": "HUYE",
+        "uri": "a4SDG7gDVrqB6M4zTIlKS9FbQlNMN/+vf2Bs4aGixXUCahaiih+adGqQYP7jLgi4fMvpBXCYyL1IIt0AcBemtn2hkgkZBqYhq1oTHJxPX/jcMyZ1W2U5tYezj4Q91QXqE5YVhXiy0sc0Elb8IxSpWQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLT7HN5cnwoR5y+T+g9PCdfl7pxcoA6tD/3OtCvadPMY2SV8mYx/IlgnZUK7xuKwoLWDpffoGu5L5g5NyUK5Ds0mJDliOmqak4JP77o4zC7dVcEdoZv6ucTV6jxbthRjaDA=="
+      },
+      {
+	"icono": "https://pics.filmaffinity.com/Transformers_El_despertar_de_las_bestias-717876501-large.jpg",
+        "name": "TRAANSFORMER: EL DESPERTAR DE LAS BESTIAS",
+        "uri": "rUmMpEqQmX0A824L3Gm82f90TM47tsbzhHMAhht1AQIy387pColXPnVwnhdIPD8aiOkds+MzIObGdGCP+DvPkfrNy/j121oPWJ50PD0J3oxcbe24QRZhZBAPT2cg54pBvFW8NRHx5w/j/JNa31rzt3BFtlUwSDCm4ZdCW5izgVnpz3H+ee7iI+iPiGmQn9TvGELKN0LQ0wikhtLuRfPWMw=="
+        },
+      {
+	"icono": "https://static.esplay.one/movie/cover/original/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.webp",
+        "name": "OPPENHEIMER 2023",
+        "uri": "AjcJX6UG9Vu3dlhAsXP0fLlQBfsteW0jAC8EqSPpREEea/P6SjI9DDmor5DeACl4Ev9hXqeM5xlaHnVbAsMLAsbUn6xEHCYd4RGN0Ih6Y7bWjY0aPts86YGJA4Ml+JZq5gqQe22RxWKq7xjT8SRI1qwkBXOfjgPNshA3aKYl7OJ1aGyxQd0eV6gtMAzo4ul08EgcBVD2/Y22rjJ9/szG9pYf6jiHLyQUNk5vcU8ZCVglmEFVA690UHeOMnGCkDpoN0lIhUov5hxLQV2a1D3s6NWilcvbjQQL+1bqR2Vrdh2XTzAnbTVz5D00r4HUni0KORuGQI9m5uHwBDJht6QgHWez1ZqAx1WL9kv74+lmqW0Od3SD9rIDw5MYGSvzzSlYhHSQi75y9ZflIdCYwcsBE6oBjGyhcbNAzrVrtFPTgaAjBFamM0/n3oW0GWIKVccrpG+nmNXFMUWeqwI8c501UH5m+MhAvLlHSNkP4sq/bQ2qt95qHL8MuCxzXIwm5MM37TrCnfvx/1ctTTrPYiZY9Y0suy9vSYkDyQd0uermNM3TsVRxluLGnmFrQGfpBxRhfdJPHXZQM3rXrfw/M0IVX5wJ3sDfHnzcThBXlDGaB99VsCca+TUVe1KgI3cBMn1krMIpkwUj/MFoQt4JlQ/XviC7Pme98mypaxTqCgKW3vmpruyVkTWg4lKam4U+ocCpuOLmA3uJNb+sQI+5OKtTwCr96MbFD+/zyz2pTT9XvAprL4uNOxXVx4h6ab+fhUyPbVLMeeeQan9Gnw0GAFDIkYr1LlAskBBwOIpr7ScW8ArybnlWvSA8M4agwUazRaHYgEjonOMPaGA/w3OFsq+9D1K7+OjT6dlopwFnrHsISeOC8QJcHeW14+n0l2wicGjgXy6Wq7dgXizTkeXzcpM/glFH2J9nSOVVojXABtIpzt3My7n+Odmhfft615JQV5FQgYfzDK+L/ockD5Hjz5aeAeZY2zfeFtRJGi/TDAXlrwtzq7eJtEEL2KolOqEgvQN/a0xthbwjPGoa2gh7bkFlglWvnNu+zxZedUe2RUCbUhMaclIuTRwTltfBaiCB46RVUj0yB//khTPcIhDZmf1ppOy+YnaXkNS+kQosBInfFITwyrKsLuVr+YP1w96F1of/1qZc96NA71Ce/k67onS0XPKft0XDbMR/n4ns4GlWCmuv+k1Mbj9LNgAtCz6hGiQzz/fMWb5pPiPfRTeCmXne9sPb9dAm31jciJ2t1FC4pUDCD87wabiaYlv0YxQESZEEqzNmw0gF8PEHIglpmJ/J8smoLG7srKYbps/6Nqk6iPwouqdwPbpfNwIfR2cT0s9qC56/QGZmyrJ24EWmVyFOVDK/anfBuOfu9/KMSpT0VHGqxq9a5+GBqf6k+KKK9+9v3VAjXcLpukoekMS1//N0qTWUIAYco8Hh2w98YYecCfWnzLYH15mNmkUcAjVoxZdqHGiIZVQAjAZ0bTrhr85bPYBXVbB8ZiFt3YClU4YGV+pVNdImuuu3DfZShU7SoWi8+G3wwUKjRk6UKc9aFeSH7ZEMfecvQ71Tw0+UlNkOH6BYQCR1rgPpbZHb70taNo+PMN2miwuT9N/vq2DA9h3O9zGXpRIXfIt6fikwxhrt2R41yCqPLjtdkJbxYc7UgwI2k5mVHdTKOYqtitIbIjkAZyhAaM2MKQaZm9LqrQSMN66t+n/I2DRAAgES68E5BcI/lTyfeoVUaOdZR2Y/zof+CXmLsuIlTa9cDfKOqbW4W77bvVKwf2Xa9hFVcywOGUOSJveh0Dc3rRS+UyWigNN3rpDigtMgUjqoI1IHvSzKavO0ublZThZ+h0FhtFKCpUe9VS1mr0M+NXRwG2AWq7PmzA=="
+      },
+      {
+	"icono": "https://www.cinemascomics.com/wp-content/uploads/2023/02/The-Flash-poster-01-960x1422.jpg",
+        "name": "THE FLASH",
+        "uri": "rUmMpEqQmX0A824L3Gm82STNj8TFLNle1c/gU3WU5p6avo3lt6Nq6PIqvVLxnwixZeXGFsXY2BoewKFTYveDG8rny0ot/FsYL9eaFtscPki72PQBRb1y9w0D2NTJPB3W"
+      },
+      
+      {
+	"icono": "https://i.ibb.co/S00LvNy/scream-6.jpg",
+        "name": "SCREEN 6",
+        "uri": "VtQ7r84chdPCVXSfyPKZbQaaMBB6/XpxaE2mpL+KfAE1lc5wSWc+RA5vRmrOvy0O+kdWJNQD/0VteizNmfOa8zd5g/Qqy5DwV8+ayymnvBlawDYQxt5bSPam3y+gOfWZP6LnU0M/vVNbIuzcaCiNU1mzuQFWHgkFejwVOHJWW0HioHaDs6cM+iCLzN07Y0kGRhQIB5Y3ev2zy4Qv6iXOuLnVBpKl7usA2wxD3IXyW7k="
+      },
+      {
+	"icono": "https://pics.filmaffinity.com/La_exorcista-898339009-large.jpg",
+        "name": "LA EXORCISTA",
+        "uri": "rUmMpEqQmX0A824L3Gm82bhac7XGv82fQo4i4t5fhexHzBEWNEIvUcOPJPiyOPpnmkuDvdbBJiN9QFhtNRrfMTDOrmM31tC7HW6Dmgh5IYHWiiOGw0DGKm6B8aBUQO89"
+      }
+      
+    ]
+    }
 ]
