@@ -34,11 +34,7 @@
 {
     "name": "🏆 MUNDIAL ELIMINATORIAS SUDAMERICANAS 2026 🏆",
     "samples": [
-      {
-	"icono": "https://i.ibb.co/3zbGZ3r/hei1.jpg",
-        "name": "HEI PY",
-        "uri": "SuqM9ExwK+TUl2p2K/kOMnVhSZvZL0BQabEth4TB/BXFcQ4i3fwftyO2SgqaQDcJ"
-      },
+      
       {
 	"icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfxhfthxflIo6TWCqh0k32C_3N-SuHZOC88MgnqeRirC6aOESH9u3RSfVxFrzX7-RUIm0&usqp=CAU",
         "name": "UNIVERSO",
@@ -212,6 +208,16 @@
         "icono": "https://i.ibb.co/CQZmd8m/EDUCANAL.jpg",
         "name": "EDUCANAL",
         "uri": "EtuJuanOnoWpmQ427dmwINK97Wsr0UMkvPZzvKihyux4yeHjQLr1++OOQmAD9EAl0q4RKc+U4W9BFXGFETJsrWQRz+g7ziKiOY1NiamHwv4="
+      },
+	{
+	"icono": "https://i.ibb.co/3zbGZ3r/hei1.jpg",
+        "name": "HEI PY",
+        "uri": "SuqM9ExwK+TUl2p2K/kOMnVhSZvZL0BQabEth4TB/BXFcQ4i3fwftyO2SgqaQDcJ"
+      },
+	{
+	"icono": "https://i.ibb.co/XVMhGFb/venus1.png",
+        "name": "VENUS PY",
+        "uri": "SuqM9ExwK+TUl2p2K/kOMnVhSZvZL0BQabEth4TB/BXFcQ4i3fwftyO2SgqaQDcJ"
       },
       {
         "icono": "https://i.ibb.co/Wtzp7wR/rcc.jpg",
@@ -1354,45 +1360,45 @@
     "name": "MUSICAS 🎼🎶",
     "samples": [
       {
-	"icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
+	"icono": "https://ca-times.brightspotcdn.com/dims4/default/133fb9a/2147483647/strip/true/crop/2385x1590+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F98%2F60%2F5efeae6049d5876d1cc683562911%2Fmtv-logo.jpg",
         "name": "MTV",
         "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3Cvtk0VJIvyrL4z814oTQQ4Geoz2W8ISmQUF+OYcqRBbeKBA9cqgQkdwVmVAHk7hjWoDL4Y3BjbfoqmS5VpeRChpgv",
         "drm_scheme": "clearkey",
         "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLUB5fxn+I/7j5ob+XmcEqbXbJw034oOobrpShE4/5ebT3AEbJpvbO6p6THuDv/yP7s1RtdqU73GcugG3CPjZDUAsRCb60F6ptRfNsDGutIH4pg4HQK6nrreTPJiaoCah8Q=="
       },
       {
-	"icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
+	"icono": "https://cdn.sincroguia.tv/uploads/images/m/t/v/xmtv-live.jpg.pagespeed.ic.8ZK-b_zAb4.jpg",
         "name": "MTV LIVE",
         "uri": "wtAdMk6NveHZdxuoXhUZEHidGBRMT0O+KgCdKQ10AMaarE/pzQwLglr+jSzc+8AKXEujb6ymw8B7+lKDEaoK9WI0JxpCtGFPATihzzT+mLG+7XQTpuinr5JAJPo1lAC8NTfaxYebh/z+nZPaEiuMxQ=="
       },
       {
-	"icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
+	"icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/MTV_HITS_logo.svg/1200px-MTV_HITS_logo.svg.png",
         "name": "MTV HITS",
         "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3Cvtk0VJIvyrL4z814oTQQ4GeoXki5i2AFS5k/sgKukcB/yhI7Ak39tiivOjtkj/Ej2GSNyUKHTyyRTa9d/EBr2L00",
         "drm_scheme": "clearkey",
         "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLXwcFYIZ5szC85RUjXb6Q5oXeQz4JDQkptkvvSqXH2olQb+dpdEnDCC8QUTXDd222H9b0ic71bUL4osTVu9UZGngERsL4Wb+n4DQshWt0WTU8CmV8pvWwX0TDLusPC6M1Q=="
       },
       {
-	"icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
+	"icono": "https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",
         "name": "MTV 00S",
         "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3Cvtkift4y1VMfN9sjndCd+uFZmRTcpD+qc2+B5FGvzW1ffAPhESD9ZqpS7LcBxNDJ/a+2U+8VyonFi/ZySPWC6Wp9",
         "drm_scheme": "clearkey",
         "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLa4pgdywTnVPZb7oBDyi7ak1bWS1TsmWHZo2gdGJUR/7MyIDoFWHBgUVKFd6cAW+qUBL571IUiwfTGh6aklCpg+2YQT5XK2Hrr5EPVzsdOt+0zdisqoSJYVEr414qV5BJQ=="
       },
       {
-	"icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
+	"icono": "https://flowmusic.one/wp-content/uploads/2021/02/flow-music-logo.jpg",
         "name": "FLOW MUSIC",
         "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3Cvtkift4y1VMfN9sjndCd+uFZSeURTDE4ZzLjUS9P8SQqpvjl3OT74+b37nU7CCkJIXXOifypnM9dDs8FYUqoBcqGtlPvFcqJxYv2ckj1gulqfQ==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLT6DHcp7GSW0q08KqKJni+By6yVP1ONGg1e6oE+tDHs925bNGFPdYTq2G22vzpilY08f5cnBgmGPJkcB7Zl3jTG541OjzEVxuXALCdu9cATtk33LJpty0ySkOIYcd8dChQ=="
       },
       {
-	"icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
+	"icono": "https://i.ibb.co/P6DxzKs/RETRO-PLUS.jpg",
         "name": "RETRO MUSIC TV",
         "uri": "cixlETxFNcXXJyvUCi0YYtMmD8I80wFNiC3r1vnp5X2qwrvI4F0DgGNYhzme+MrkY5OnRBadmTt4qGVkVA6d9EqpctCfaJpWfafwis+X0ts="
       },
       {
-	"icono": "https://i.ibb.co/sCTNYTC/Rplay.png",
+	"icono": "https://yt3.googleusercontent.com/RCgPBJ7Jm5Wwfyx49lYbS4k0glQ8gyKx8mITJrJxe1mcq8KN0qaGqgrrY-2Tns64l48_T2uUgA=s176-c-k-c0x00ffffff-no-rj",
         "name": "QUIERO MUSICA TV",
         "uri": "wtAdMk6NveHZdxuoXhUZEHidGBRMT0O+KgCdKQ10AMaarE/pzQwLglr+jSzc+8AKXEujb6ymw8B7+lKDEaoK9Y77QKJ2phbtBwtApCeJHjFzkFMpS41gz4dw/zbXWu4muA0+OC7dcrIEmUvZ7YX9Tg=="
       },
