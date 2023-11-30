@@ -114,6 +114,26 @@
 	"icono": "http://www.haciaparaguay.com/desdepy/images/logos/radios/90x90px/central.png",
         "name": "CENTRAL RADIO 1140 AM",
         "uri": "eEut3f7HIXYtIOTRjihMyGiA4hytS8s0I4oqWpSDQaixMwUBZ1wBHRH9iy3pBFozJDR9nxAUXTksXWIvFY8XwUaB91kEFb3JfeLSvPB0fRo="
+        },
+	    {
+	"icono": "http://www.haciaparaguay.com/desdepy/images/logos/radios/90x90px/centro.png",
+        "name": "CENTRO 87.9 FM",
+        "uri": "eEut3f7HIXYtIOTRjihMyGiA4hytS8s0I4oqWpSDQagwtAILBCQSHiX6Syl52EzIkIMvyYleCpNXxWlcM8KPohgLfYlYipsu40guxg2kVQk="
+        },
+	    {
+	"icono": "http://www.haciaparaguay.com/desdepy/images/logos/radios/1024px/1330.png",
+        "name": "CHACO BOREAL 1330 AM",
+        "uri": "eEut3f7HIXYtIOTRjihMyGiA4hytS8s0I4oqWpSDQagy5q7VX5RqIqYMYWbppnvFosWeRTcYoPCj4fUNZ1w5jEaB91kEFb3JfeLSvPB0fRo="
+        },
+	    {
+	"icono": "http://www.haciaparaguay.com/desdepy/images/logos/radios/90x90px/chechos.png",
+        "name": "Checho's La Mega",
+        "uri": "eEut3f7HIXYtIOTRjihMyGiA4hytS8s0I4oqWpSDQahv4v0YcZEbPAZdSmR1FMguuSu70xQFkCBFFMZGXsLkzjI9OlrsDChlrnCO2bYx34Y="
+        },
+	    {
+	"icono": "http://www.haciaparaguay.com/desdepy/images/logos/radios/1024px/corazon.jpg",
+        "name": "CORAZON 99.1 FM",
+        "uri": "eEut3f7HIXYtIOTRjihMyGiA4hytS8s0I4oqWpSDQagH+aoC1fAtbAuhVtZWSW6EhkzxXac9pCJxB06Um2erHDI9OlrsDChlrnCO2bYx34Y="
         }
       
     ]
