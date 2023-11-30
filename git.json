@@ -364,7 +364,7 @@
         "name": "AMERICA 24 HD",
         "uri": "WJV8bqurAK7+F3RgM8JvgijpecwIf8atl98ly0XadDFmbLeiQ1p3lXsY5a7grSybemDxdbe0FJf8CmJz4XD9OCRswxkUSGieM2y7B+19+VtkpN+B3NUoQAb8ygKqNpTq",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLVBHbcTwHw6bbccBQo1s0YiDpJS4jDmfgntPyp9ahZdlBRw4F1/Qh4ViPyotWgOH1e6+0uurRBdtSFtRJgGTULUQXNM4Wl+x62fBRtKMBz5KnxH5MTnYEEJuS50sfOPIMA=="
+        "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2uP+NkSCGhAPfoEoStGDR/iEyW1HRvxS/iUtm62urmNFSK3N26tX7fHXubSAcL2hq2xMf39R0q8VjJmEg3Ob/48IEgluVrKtEUVZCwDdb7Bf+MzsQjjGn0PKxZI9Ywv91g=="
       },
       {
 	      "icono": "http://static.tvar.io/imagenes/canal26.png",
@@ -386,6 +386,13 @@
         "uri": "+mT08g6rT8a7nKN+039JpvsbEIAePXi9LEr/xINF8pBnvKxmdkC2Lvva3Uvolj8Pwt31Pqs4RtpQlzSOl6JpBUVEBpPuMDQF7SUuvCd9A9SC5rLZy/+YtE2/93WB91hI",
         "drm_scheme": "clearkey",
         "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLWoqgiA4YaBMO7/HVwcct8fJ/uF1sPqHuYtmCVLUsbAs/dv4bWJn9EuvDskbzEUlRgdkVDX/3fpxKi6uI8Niw8hp+xC00/OWAwXHk7+BlRxDbR9+JKvCLso4lUApX8o5fA=="
+      },
+	    {
+	      "icono": "http://static.tvar.io/imagenes/tn.png",
+        "name": "CRONICA HD",
+        "uri": "+mT08g6rT8a7nKN+039JpvsbEIAePXi9LEr/xINF8pCO4Y30F2vEOxOsqAi25eNsClLahJZvpv8CFSCtGH7Y0seWAneO3RE52jkMo864RNNKZBdEaBYfs6q/P8P/TDQh",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLdxDYvXpVYQXGAW2TNisYfhTVN3Z29m+fsDbekV2iXETeFURSZ7sFa1mhC4ftUY1qDM4PprL3/+3K6QKeHzn4tuVKX0vvhJ3uXWghF/DoZWXqUeFmYzATdVjasHtV+qDPw=="
       },
       {
 	      "icono": "http://static.tvar.io/imagenes/c5n.png",
