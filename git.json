@@ -31,6 +31,38 @@
       }
     ]
   },
+	{
+    "name": "🏆 RADIOS 🏆",
+    "samples": [
+      
+      {
+	"icono": "http://www.haciaparaguay.com/desdepy/images/logos/radios/1024px/780.png",
+        "name": "1 DE MARZO 780AM",
+        "uri": "eEut3f7HIXYtIOTRjihMyGiA4hytS8s0I4oqWpSDQaj6CbZgm3PHa5HM0dPAnSsuD2B1swLjqccoTYNPVcJG8TU32sWHm4f8/p2T2hIrjMU="
+      }, 
+      {
+	"icono": "https://www.24horasmusica.com/24h.png",
+        "name": "24 HORAS MUSICA",
+        "uri": "rBe8baRbmxGdQ9MbfRWE+Vhw4vyr+jL9SA6ZfP6/D8m/NGvRZ16tkmx5tdMEXnm5"
+	 },
+      {
+	"icono": "http://www.haciaparaguay.com/desdepy/images/logos/radios/90x90px/1069.png",
+        "name": "106.9 FM",
+        "uri": "eEut3f7HIXYtIOTRjihMyGiA4hytS8s0I4oqWpSDQai97fo94TWXMVTPEx1ObAUUSL5sFIlmuWIllGSRRicLekaB91kEFb3JfeLSvPB0fRo="
+         },
+      {
+	"icono": "http://www.haciaparaguay.com/desdepy/images/logos/radios/1024px/730.png",
+        "name": "ABC AM 730",
+        "uri": "eEut3f7HIXYtIOTRjihMyGiA4hytS8s0I4oqWpSDQagw+hjrP3T914GGH0b5EUHqTcW70D8px2JoKXV/eH+cGjU32sWHm4f8/p2T2hIrjMU="
+        },
+      {
+	"icono": "http://www.haciaparaguay.com/desdepy/images/logos/radios/1024px/abcfm.png",
+        "name": "ABC FM 98.5",
+        "uri": "eEut3f7HIXYtIOTRjihMyGiA4hytS8s0I4oqWpSDQajaytT1ht0t+bZmTe9RSIlp8zUnkjLpWzD2aOfiFkQ+eu0PgBXWqOo3Z0WA6CtovIc="
+        }
+      
+    ]
+  },
 {
     "name": "🏆 MUNDIAL ELIMINATORIAS SUDAMERICANAS 2026 🏆",
     "samples": [
