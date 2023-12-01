@@ -168,13 +168,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLbvK2+2LE/MfJWvivJrV5dzJLmEVk/g568reTcYR7K+FNnH4dtVv+Km6T4bJ7lbv+/KRAbqbI+OCRp1Wi4fPBxNBmq1uglDpByHxUKYTrnZVdVoorQkLH1SObf8PwW5kcA=="
       },
-	{
-	"icono": "https://i.ibb.co/RTKJ5tX/directv2.jpg",
-        "name": "DIRECT TV 2",
-        "uri": "rzgAIkul088qSIHHPQseu2xzaIRCmmkyE2VI7wemnG8p9AHHfW/6QSV3/E2GoJHUXe4qnmQuMeXGc572bdFzFrZT7xXKicWL9nJI9YLpan0=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "9ShIihdOI15Yt5oeNe0xzkhr4y/7R7kVF6D5wLyC18ejX3XC5cO/3QbRN1fQMLbXtdivr6qKpY6Zo5PgIHJqOLGng1TE5D3yS4GpQ00saXI="
-      },
       {
 	"icono": "https://i.ibb.co/bPKWXGc/america.jpg",
         "name": "AMERICA TV",
@@ -573,10 +566,18 @@
       {
 	"icono": "https://i.ibb.co/FHPS1y0/directv1.jpg",
         "name": "DIRECTV",
-        "uri": "kCW81s39yVdEXnCRxVMiXcLhR5TrwPz6O3C2KuQnmGwIR+qeRz1qQnQJfkfkA8pqD/H+n3tSJV1JWJzteF7IurZT7xXKicWL9nJI9YLpan0=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLeoGyqoP1/kXoXQ5COZlZpcm+4DZD2xZgso2DR8kYg1XfvLOpLL7I7XkfDvsdABrN6Ig8xWPwPLkHtvsg93SDoj/meideyNeeG5cx2ThHGFw8HCsTeosHMU8ZPhTeGAWlg=="
-      },
+        "uri": "tJ9z+VX0y6+uOt/00gW0VFbs0BF2gJ/WRidxMleMuZFBBGVFf9XkgkdRmTW/ziMFymFZsDfUCwYaXzjZk/WZeA==",
+         },
+	{
+	"icono": "https://i.ibb.co/RTKJ5tX/directv2.jpg",
+        "name": "DIRECT TV 2",
+        "uri": "tJ9z+VX0y6+uOt/00gW0VFbs0BF2gJ/WRidxMleMuZFBBGVFf9XkgkdRmTW/ziMFgAjB9EjQGKAOwpwX5FKzJQ==",
+        },
+	{
+	"icono": "https://i.ibb.co/rtGrG6Q/directvmas.jpg",
+        "name": "DIRECT TV +",
+        "uri": "tJ9z+VX0y6+uOt/00gW0VFbs0BF2gJ/WRidxMleMuZFBBGVFf9XkgkdRmTW/ziMFtooAjF6gdbOAeFcCTBujHA==",
+       },
       {
 	"icono": "https://i.ibb.co/Jv81xHf/tyc-sports1.jpg",
         "name": "TYC SPORTS HD",
