@@ -666,14 +666,14 @@
         "uri": "1DDueez+6IQf3tR4yf7/Ag2i0zVq0oMVb5t0LgIg2z5zo2U6LMkvbnouiQQdejzKS1faQEHnPJovl5hTMfkc+z4MlFxD7E25T2etCeczC5FwTLx1v8XQwBJ13rZP4I/DgCEovBFX5KN5N/ySVIFxpw=="
       },
       {
-	"icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/640px-Logo_VTV_nuevo.png",
+	"icono": "https://i.ibb.co/tcjWyCQ/vtv.jpg",
         "name": "VTV HD",
         "uri": "1pmw/xagdKRR56C82Ox5cr9rkFaHthetPchozFqGmJS0BJyPnaEVqWlgnU56c75nZLrK3LdLKSqhsrOoniEaUsW5gZguNceR0HYDzEYL+DtjbZBqesskWyyj0mDBMgJ+",
         "drm_scheme": "clearkey",
         "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLSiLzXorFZALfmOPiwv0Bos3A23mF9d7MWKawm/HFwmfyqeoABwpWL3yOhKsnvrJJomKSudO1+4SArZ075WjWigQV3+GoRoiw1De/SKY1FrG7UfZfsNghbN8U5oh5plqng=="
       },
       {
-	"icono": "https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png",
+	"icono": "https://i.ibb.co/ZNgTHhq/vtvplus.jpg",
         "name": "VTV PLUS HD",
         "uri": "1pmw/xagdKRR56C82Ox5cr9rkFaHthetPchozFqGmJS0BJyPnaEVqWlgnU56c75nqWlYFCcuEXE57OUBkt16ch49q1oc16gRjfTPAqEoRMjf/cjlca1rxgSRT/0El/cQ",
         "drm_scheme": "clearkey",
@@ -681,24 +681,24 @@
       },
  
       {
-	"icono": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png",
+	"icono": "https://i.ibb.co/tCmB696/combate.jpg",
         "name": "COMBATV HD",
         "uri": "JdbJScQd4bCrA5UQ2bJagAe6BWxSrCKq9pqqJS/ZD63+pm8CnFrsBm2ihhThUMNTnedi5F36te2XwGBuGVmEGSC0veSELosLyK4hkytksrQjOxzXDnjHr9h8Om8u1Z7r"
       },
       {
-	"icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CG_logo_final.svg/800px-CG_logo_final.svg.png",
+	"icono": "https://i.ibb.co/tCmB696/combate.jpg",
         "name": "COMBATE GLOBAL TV HD",
         "uri": "JdbJScQd4bCrA5UQ2bJagAe6BWxSrCKq9pqqJS/ZD63+pm8CnFrsBm2ihhThUMNTzghC4YSoqvuSmpaujQ93ww=="
       },
       {
-	"icono": "https://static.wikia.nocookie.net/logopedia/images/d/d1/Large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png/revision/latest/scale-to-width-down/400?cb=20200913211748",
+	"icono": "https://i.ibb.co/4sgHqgY/garagetv.jpg",
         "name": "GARAGE TV HD",
         "uri": "WJV8bqurAK7+F3RgM8Jvgm19zvkXgTA93T2irWCkKcQ0VJIvyrL4z814oTQQ4Geourmgi8tVXa9cjs2SXIXUCQhis15x5tkFo057GA5ggxiNh6EhfnzNbBC4qKcUW27F",
         "drm_scheme": "clearkey",
         "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLfs8Z/gUlBuRAb53MmZJDSnH6IBwI40x2kc4o9pMQS9Kma85I0c4HUERghRuBsFlWU+XvMle10M/nFj3a7ubmBytehIs59JZ/TGvrD56jPDZsapXSbFjiNcX0LS4Ud8u0Q=="
       },
       {
-	"icono": "https://i.ibb.co/3Y6D5z8/golfchannel.png",
+	"icono": "https://i.ibb.co/RgCm9tf/golf-channel.jpg",
         "name": "GOLF CHANNEL HD",
         "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3Cvtk0VJIvyrL4z814oTQQ4GeoUnqQdda1O0ZATyouC/Hw17XM7fgbeg9SZH8m4hFG6DIHTooKgnyrsSKas3gA6k9qSmQXRGgWH7Oqvz/D/0w0IQ==",
         "drm_scheme": "clearkey",
@@ -781,13 +781,6 @@
         "uri": "WJV8bqurAK7+F3RgM8JvgsJu7xqqVQ8Z9nrmtl3Cvtk0VJIvyrL4z814oTQQ4GeoOI8Odv8rFDrdCbKqxNnu3eGfkdJUvP0wTUSOo6lsHb9B7wBiceTktIOoX9BDKrXS",
         "drm_scheme": "clearkey",
         "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLdeb7TS/siNLApMMp0U3LaVRgJQyyfHX5yqWppOcX48DOMbo0NBx3KokZnC5p3Bhzh8crOjaPe7yQJg4M3/HWqCmDp1Jg8qwwUXQgB27RxGpKPADkx/43l1TU6KuEHxdEw=="
-      },
-	{
-	"icono": "https://i.ibb.co/m4m56ZM/co-nba-tv-hd-m.png",
-        "name": "NBA TV 2 HD",
-        "uri": "naMdfPJ7pke6hDGH3A1l+zvRWZi4Tf/cJ7gDITjzgI6DEJ7x8jrVEdKr4JvtLYVRpHhVVElIHGgSawKCO33mqw==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "9ShIihdOI15Yt5oeNe0xzkhr4y/7R7kVF6D5wLyC18ejX3XC5cO/3QbRN1fQMLbXtdivr6qKpY6Zo5PgIHJqOLGng1TE5D3yS4GpQ00saXI="
       },
       {
 	"icono": "https://www.lyngsat.com/logo/tv/dd/dazn-f1-uk-es.png",
