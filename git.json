@@ -1221,6 +1221,12 @@
         "uri": "yxZvFnqdj4SO8NZ3b4mKdejz0D1rBuZxZcJYle0Ow1UTN+vlpDr61N9A5iibAm+O1ZaGSv7S95/MQPGr7KQ2ADUYBYzInwunDv/n06WM4J197FOaJiP6oSgiLRtbeF5l"
 
       },
+	{
+	"icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDhMlYnN8pA-irRmyAvTzyxnnrSlsS_lFNdx0zubdCSg0TmHuugpQsGpdN99rlaJPuEoQ&usqp=CAU",
+        "name": "XTREMA TV ANIMAL HD",
+        "uri": "58YcT241YChIckpc6lTpaiv3qx4UOF8dnlm/aF/I0O8QnfjNzYumoB+WpUxPp7OChuEnRHCYy+9fnZpg0SRiCLgNPjgu3XKyBJlL2e2F/U4="
+
+      },
       {
 	"icono": "https://i.ibb.co/BLr5HXh/love-nature.jpg",
         "name": "LOVE NATURE HD",
@@ -1239,6 +1245,13 @@
     "name": "INFANTILES 🎨",
     "samples": [
       {
+	"icono": "https://i.ibb.co/xYPjLzm/dream-works.jpg",
+        "name": "test HD",
+        "uri": "s+72jCi+aefT/i3kP+zbWkvBgbmsxc74RdUs6NL/rW/GznxLyPUoWSDDYfSJSVu62uHStcXjVo58S9QAzHMBOUtQZdUIsvwZKMYXwdCylsHsHI5vTfflSL31t8WNwFu2cdhrpt4nk5m2vMx5d3IG1OCyTLKH6ujuKjpaaRSw588/r3QrX5wu/CFQMBD53mU+aABDRczEK0gZY8FKYJR2yOTZYebDIJcnBnPJYysfQ0dKZBdEaBYfs6q/P8P/TDQh",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLVLv/lN6IR94LwD9XMkyncOdLu2Kcy+aA56iDz8Yi/hn6/syjO08rp6B+rhzD4l99Ebg7xngrpdYfCQw/vcEVDl8ZG4+Jp8GHbh7bTnmHJqFEWBZc5BxprbhFJ1QzL5gOw=="
+      },
+	    {
 	"icono": "https://i.ibb.co/xYPjLzm/dream-works.jpg",
         "name": "DREAM WORKS CHANNEL HD",
         "uri": "WJV8bqurAK7+F3RgM8JvgkfyBetFnOWEFMdrCftD6JQift4y1VMfN9sjndCd+uFZgn7PFc6+jl7Q+n/ZTBiIR2LxazBQ4fVI5bnZ+AUWcnpY7fA8+ws5OdDRUBBHhbQT",
@@ -1358,6 +1371,11 @@
         "uri": "nBdgmQNRG5WXj75wkenpgKqv7qKsXBE/uLKENuiDS2ivkvY8lBXXtUjQqsyyDvoviwDtW6j7JPTVfTEzNALfnw=="
          },
 	{
+	"icono": "https://static.wikia.nocookie.net/doblaje/images/f/fb/Poster-South-Park.jpg/revision/latest?cb=20201015031131&path-prefix=es",
+        "name": "SOUTH PARK",
+        "uri": "0pQZHzMHGDj2PsElADbb+1puAFOP7atDkpODw2ssOR3PJRZwW3trf05SxEWFkTng4YL+lnhCI12rka2TRGD358ripsN6yzWjqVDEUg/spJBekA/PEt5K1+GmXBiCjwpN3x8Kpfe/ooh6gP+OC5dEpdyIfA9GncjlNj67na7N3zMQODGoqVPToaW/C+qkt4NiUy0eUN8TvL1aGypvLl7o+XLUSbQfaUNhPcwLObibPg+PMfqefgFeVdjjZ57LenjIrWOwJmh2r0XNz9AKV/rXk+RxCwjdIqC2aV77EXocsz/7d9Cmz2y6ifs2CBNs2DgcMp/7Pe7/NW6MooAgpTUYSlKRQxVHgKr1Szrdqomjlya3B/MyILfPQxVzKZzPX7G3CZYjqLq1mYyIw3+5zMpCIdtjnix4JSuOn2D6rgbnrfLgtHnIBYRkep/zgBa2090I1HwsycCJBBe23ukiAAiB5Ex0eC2hB9+gdiu1uvyPvMB0J57hsyGSEKuOis+qB1Gs5cwO+9vdqv5hR7WlZrY8OGQD0XCDLKu69f1hp1N6xQ1NOZU8lV89DDzQvvQ3Jh9r0wPIoMX6PIZoVdmnq41J5A=="
+         },
+	{
 	"icono": "https://static.wikia.nocookie.net/nickelodeon/images/7/7c/0849856001367215694xpLMBaVDh5.jpg/revision/latest?cb=20150215163826&path-prefix=es",
         "name": "LOS PADRINOS MAGICOS",
         "uri": "nBdgmQNRG5WXj75wkenpgEcPf2H7S1MxneWb5oEbEC5OKg8APoidkMQUykz8pS9md+tGtXQwnY/No0c9XRh+GQ=="
@@ -1365,7 +1383,7 @@
 	{
 	"icono": "https://i.ibb.co/YPkVQ07/pepa1.jpg",
         "name": "PEPA PING",
-        "uri": "tH2dEtE9NSUYBg3R4/WIP/jhK1A2GwBjSjrpYw2S8OkE6FnFjDLDG1VogsGhmQPyTIj/klJ6TjxwCHDvEiJI7BBoZyCD8WPvnLgWb8XN8PU3qnmjnBSsyqHqODLwCTIR"
+        "uri": "tH2dEtE9NSUYBg3R4/WIP/jhK1A2GwBjSjrpYw2S8OkE6FnFjDLDG1VogsGhmQPyTIj/klJ6TjxwCHDvEiJI7GtkntHVdQRWXpTyUqdIqHapExZojEvfg4kjJqPcdqfg"
          },
 	{
 	"icono": "https://i.ibb.co/9GgGrZP/PAW-PATROL.jpg",
