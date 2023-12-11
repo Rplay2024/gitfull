@@ -1630,7 +1630,7 @@
     ]
   },
 {
-    "name": "ENTRETENIMIENTOS 📺",
+    "name": "NOTICIAS  📺",
     "samples": [
       {
 	"icono": "https://i.ibb.co/yPg9x0b/CNN-ESPA-OL.jpg",
@@ -1638,17 +1638,48 @@
         "uri": "oeQAG++JNgRVdF9wg75GR6bMsg5b1MBDXbDfrqadUyUI9x1iv3ATRWsOIcvy/739POBZS3yvMrUPStKRCyfAQa94h98UVUvf6vYpEKulki0TOlalZI0FbjP3o6RAEaQCSmQXRGgWH7Oqvz/D/0w0IQ==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLcZMt+z2omKlr67jUJG1IDc5bKipkA6ZN23ux3INAsL6m6x/vt7i8S4ko4x1/R7oIbIytUlotSZnguL0NxN3Gt6H6u3x80wuwxp09C4i5nQ07UfZfsNghbN8U5oh5plqng=="
-      },
+       },
       {
 	"icono": "https://i.ibb.co/k0ZwYr2/CNN1.png",
         "name": "CNN INTERNACIONAL",
         "uri": "wtAdMk6NveHZdxuoXhUZEHidGBRMT0O+KgCdKQ10AMaarE/pzQwLglr+jSzc+8AKXEujb6ymw8B7+lKDEaoK9V+Wyp6DA5Ffzo448rQhFiYB75bgAFoZSn5oxqt07TEvQGOG5VF6WhnY9e1VKp0bWg=="
       },
       {
+	"icono": "https://i.ibb.co/k0ZwYr2/CNN1.png",
+        "name": "CNN FHD",
+        "uri": "tH2dEtE9NSUYBg3R4/WIP/jhK1A2GwBjSjrpYw2S8OkE6FnFjDLDG1VogsGhmQPyTIj/klJ6TjxwCHDvEiJI7IqLQrWA+n6QP5h3SrYvU31zA6pz4VC99a48PDVVCsPD"
+      },
+	{
+	"icono": "https://i.ibb.co/k0ZwYr2/CNN1.png",
+        "name": "CNN HD",
+        "uri": "F0BMomzWcJ1klLRwcNmmbZ3cGzLu1uajZs+dStf1JYN678seGT7BDPz43I9ENUCIwb3uCf/bfeEpddTiKXW56Q=="
+      },
+	{
+	"icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png",
+        "name": "RT TV",
+        "uri": "dv9YdXQvYuqkiEffDFl/Xl2kE20yh/MxuvxfuEHIUooBFQ5cxBBStPfr1QkInxoktlPvFcqJxYv2ckj1gulqfQ=="
+      }
+	{
+	"icono": "https://i.ibb.co/TqsMTT0/EURO-NEWS1.png",
+        "name": "EURO NEWS TV",
+        "uri": "a4SDG7gDVrqB6M4zTIlKSyyInlclaXkZnQck/FuiPSRVLOg/cj9a6Mx2M+lMXWIE/Wmzp/hSGHzEPdCLxEHWJJuVLAN8wsMB1e1IRyIoOAM=",
+	"drm_scheme": "clearkey",
+        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLZ7xRICYO6zk7NCjYIpXnx5JxDBX3v2t37Ry9+GgZ3CCL85Ad+PG45wls7Y5wzdar27VW7UF3YvvreIvC4xRdBo7ApNQGwMMluNAvCGWEeNaPdBm9pr9brCmSaacbZB6/Q=="
+      
+      },
+	{
 	"icono": "https://yt3.googleusercontent.com/ytc/APkrFKbhE4N58bfSYDkR3L0ojJeWRbRKyy31s5hiYhHnNg=s900-c-k-c0x00ffffff-no-rj",
         "name": "VATICANO TV",
         "uri": "tH2dEtE9NSUYBg3R4/WIP/jhK1A2GwBjSjrpYw2S8OkE6FnFjDLDG1VogsGhmQPyTIj/klJ6TjxwCHDvEiJI7MstyRbVeP7FP4LDpv6AWCltQRFgSYfoTjBEHbGCwnfMZSKlkNrKkC+NRSKaX1SPsjQdT0YbitKH2UAemLAK7GM="
-      },
+      }
+    ]
+    },
+{
+    "name": "ENTRETENIMIENTOS 📺",
+    "samples": [
+      
+      
+      
       {
 	"icono": "https://i.ibb.co/8gNmqdZ/chilevision.jpg",
         "name": "CHILEVISION",
@@ -1664,14 +1695,7 @@
         "name": "CGTN",
         "uri": "2qZ23jAMlTTU+QgVn8h4YqXtXQcg9kdLNmeKk1Vb42Mq10Ti/yoRSMZrb8je5pQ03IyAec+A5OVfM6o6xgq8+g=="
        },
-      {
-	"icono": "https://i.ibb.co/TqsMTT0/EURO-NEWS1.png",
-        "name": "EURO NEWS TV",
-        "uri": "a4SDG7gDVrqB6M4zTIlKSyyInlclaXkZnQck/FuiPSRVLOg/cj9a6Mx2M+lMXWIE/Wmzp/hSGHzEPdCLxEHWJJuVLAN8wsMB1e1IRyIoOAM=",
-	"drm_scheme": "clearkey",
-        "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLZ7xRICYO6zk7NCjYIpXnx5JxDBX3v2t37Ry9+GgZ3CCL85Ad+PG45wls7Y5wzdar27VW7UF3YvvreIvC4xRdBo7ApNQGwMMluNAvCGWEeNaPdBm9pr9brCmSaacbZB6/Q=="
       
-      },
       {
 	"icono": "https://i.ibb.co/D4xVVSC/mas-chic.jpg",
         "name": "MAS CHI",
