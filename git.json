@@ -579,14 +579,29 @@
         "uri": "tJ9z+VX0y6+uOt/00gW0VFbs0BF2gJ/WRidxMleMuZFBBGVFf9XkgkdRmTW/ziMFymFZsDfUCwYaXzjZk/WZeA=="
          },
 	{
+	"icono": "https://i.ibb.co/FHPS1y0/directv1.jpg",
+        "name": "DIRECTV OP2",
+        "uri": "tJ9z+VX0y6+uOt/00gW0VFbs0BF2gJ/WRidxMleMuZFBBGVFf9XkgkdRmTW/ziMFymFZsDfUCwYaXzjZk/WZeA=="
+         },
+	{
 	"icono": "https://i.ibb.co/RTKJ5tX/directv2.jpg",
         "name": "DIRECT TV 2",
-        "uri": "tJ9z+VX0y6+uOt/00gW0VFbs0BF2gJ/WRidxMleMuZFBBGVFf9XkgkdRmTW/ziMFgAjB9EjQGKAOwpwX5FKzJQ=="
+        "uri": "TexjQDsTv2hwafvErsnyiLAtyVxNL3y2YiDyswy1ELBWxuspOSl0lUGM9C8x+LT0zm+aN7b1wuETJ+JBfpnZjw6UwCYeY+AZueURcDK4XM0FWk40mTym7d1GQkzmEi4C"
+        },
+	{
+	"icono": "https://i.ibb.co/RTKJ5tX/directv2.jpg",
+        "name": "DIRECT TV 2 OP2",
+        "uri": "TexjQDsTv2hwafvErsnyiLAtyVxNL3y2YiDyswy1ELBWxuspOSl0lUGM9C8x+LT0IzJ6AccUi7HzTjKJw1iRn+ix7l+Zqd319z5jHU/fa3iMQsTxuXGIVv4Up/3qUcIc"
         },
 	{
 	"icono": "https://i.ibb.co/rtGrG6Q/directvmas.jpg",
         "name": "DIRECT TV +",
         "uri": "tJ9z+VX0y6+uOt/00gW0VFbs0BF2gJ/WRidxMleMuZFBBGVFf9XkgkdRmTW/ziMFtooAjF6gdbOAeFcCTBujHA=="
+       },
+	{
+	"icono": "https://i.ibb.co/rtGrG6Q/directvmas.jpg",
+        "name": "DIRECT TV + OP2",
+        "uri": "TexjQDsTv2hwafvErsnyiLAtyVxNL3y2YiDyswy1ELBWxuspOSl0lUGM9C8x+LT0IzJ6AccUi7HzTjKJw1iRn/HjWyUkhwQi/Bie+OsoDQkZSawuROgKToNma/qkPyCa"
        },
       {
 	"icono": "https://i.ibb.co/Jv81xHf/tyc-sports1.jpg",
@@ -608,11 +623,6 @@
         "uri": "1pmw/xagdKRR56C82Ox5cr4Qk+G/sxZX9sqLL+PfiXs0VJIvyrL4z814oTQQ4GeoO7loKyErujd6ttjYiZPKC694h98UVUvf6vYpEKulki1X8CTP3/hv9fOINv9KIke6LHFWxYmPbjufqRYsDmG+kQ==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "bWse2XSI1hXmUgwrmJTvSUeXHCF2xMbg3PCZaYqvNXxEajRAiW7GQ4wCikZ32aWVDV/ML9zK9vX34aWAx3RoLRMtqBT3G/SfXXkskU/s2r1dJRmZC7meJ8AQV7jyAD+F55nC4PnaStFtpYs3y8qkogvXJfjgbHTV2Lu1pfgWkIpigrWXVTXvSWBr8IJh//pXYMcyQzFLCGjbW1UyMJJ1PQ=="
-      },
-      {
-	"icono": "https://i.ibb.co/4KcpXHr/tnt-sports1.jpg",
-        "name": "TNT SPORTS 2 HD",
-        "uri": "FgbrG9ZS/UAyGCjFlj/moL7WQFHAN7UV3g7dzMtttGkgkVeU2OHhnj6dFTa9s+TRK6/Sa+NZoMbAt/SO4APhWw=="
       },
       {
 	"icono": "https://i.ibb.co/4KcpXHr/tnt-sports1.jpg",
