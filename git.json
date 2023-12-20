@@ -768,48 +768,6 @@
         "uri": "dQrCmmyeVp1IiXhEotCiVdbZBTOGSGkNPgiS6Xu8UzYjZc3ReMYaWt9H4WeUxCR+Iehoxod3fyg4MHCrgmQjrXgeKKgyprfwevSYdCEp32ytoIRN2ByIytoiNGleFf1R3MKdaLoZV0raA1i8x/610p16Cg0NRTJ8v9qIB6+/GalhiE5C+6YBa+NWpGTbRTXrFP+9QU5+dZxneuC2KHdFtA=="
       },
       {
-	"icono": "https://upload.wikimedia.org/wikipedia/sr/9/9e/Arenasport_1_logo.png",
-        "name": "ARENA SPORT 1 HD",
-        "uri": "cSstAridpUNF984nE6SJcGadY9jq4BYbAhDx4TbcCTotkcIkOz+p3D8wBXMRkLHglbxb/NsDgZTmVTjdZIqdbQ==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "tMvc1q6lVn+WRekv0cp8GEsX8Xr53ooyWJG7fPQKug5G7dA74o7YP6EUkD5RtZDNhZCZXtrlYO8G3u5AFj+OoQ=="
-      },
-      {
-	"icono": "https://static.wixstatic.com/media/a03863_fe32183d690b4734b7984ed617eb5b41~mv2.png/v1/fill/w_558,h_418,al_c,lg_1,q_85,enc_auto/arena_sport_2.png",
-        "name": "ARENA SPORT 2 HD",
-        "uri": "cSstAridpUNF984nE6SJcGadY9jq4BYbAhDx4TbcCTotkcIkOz+p3D8wBXMRkLHgjvmm2zVQyg1idEXQujngzw==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "tMvc1q6lVn+WRekv0cp8GEsX8Xr53ooyWJG7fPQKug5G7dA74o7YP6EUkD5RtZDNhZCZXtrlYO8G3u5AFj+OoQ=="
-      },
-      {
-	"icono": "https://www.tvarenasport.si/uploads/web/arenasport3.png",
-        "name": "ARENA SPORT 3 HD",
-        "uri": "cSstAridpUNF984nE6SJcGadY9jq4BYbAhDx4TbcCTotkcIkOz+p3D8wBXMRkLHg0ZYJIez1oSvP91YUP1nN7Q==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "tMvc1q6lVn+WRekv0cp8GEsX8Xr53ooyWJG7fPQKug5G7dA74o7YP6EUkD5RtZDNhZCZXtrlYO8G3u5AFj+OoQ=="
-      },
-      {
-	"icono": "https://www.tvarenasport.si/uploads/web/arenasport4.png",
-        "name": "ARENA SPORT 4 HD",
-        "uri": "cSstAridpUNF984nE6SJcGadY9jq4BYbAhDx4TbcCTqN0mlTVoHnk//TmEcfNHtotlPvFcqJxYv2ckj1gulqfQ==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "tMvc1q6lVn+WRekv0cp8GEsX8Xr53ooyWJG7fPQKug5G7dA74o7YP6EUkD5RtZDNhZCZXtrlYO8G3u5AFj+OoQ=="
-      },
-      {
-	"icono": "https://i.imgur.com/2UJb01J.png",
-        "name": "ARENA SPORT 5 HD",
-        "uri": "cSstAridpUNF984nE6SJcGadY9jq4BYbAhDx4TbcCTps5lNPRqSOO+yosaB1CvMotlPvFcqJxYv2ckj1gulqfQ==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "tMvc1q6lVn+WRekv0cp8GEsX8Xr53ooyWJG7fPQKug5G7dA74o7YP6EUkD5RtZDNhZCZXtrlYO8G3u5AFj+OoQ=="
-      },
-      {
-	"icono": "https://picon-13398.kxcdn.com/areanasport6hrexyu.jpg",
-        "name": "ARENA SPORT 6 HD",
-        "uri": "cSstAridpUNF984nE6SJcGadY9jq4BYbAhDx4TbcCTprROnJO3ZT02nR6tDRqeD2tlPvFcqJxYv2ckj1gulqfQ==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "tMvc1q6lVn+WRekv0cp8GEsX8Xr53ooyWJG7fPQKug5G7dA74o7YP6EUkD5RtZDNhZCZXtrlYO8G3u5AFj+OoQ=="
-      },
-      {
 	"icono": "https://1000marcas.net/wp-content/uploads/2021/04/Eurosport-Logo-1994.jpg",
         "name": "EUROSPORT-1 HD",
         "uri": "95F2wT5/hss2gcl4wYE2NFPLecFalKshNv60YueJU+NMVJQbTRGeuBPCCeBmlhIndvedAoys/3v5h/KnL92v2u502mUI/6noD5MEM1lhNbo=",
@@ -1065,7 +1023,7 @@
         "name": "SONY MOVIES HD",
         "uri": "1pmw/xagdKRR56C82Ox5cnNFAVayFZcO7uzkf2UDHPkift4y1VMfN9sjndCd+uFZLWehFv4MJ0M9SvRt5zPtjbvxWwxBqMo06v2QDDQ8sXLRt9Et75uFTLRPpff28pvc",
         "drm_scheme": "clearkey",
-        "drm_license_uri":"S75s8tzP8cNnC7jh8nDLej7ogWnU5GFTlbNinlpA2uRzmm1GHQgiTrShov8y4MVE"
+        "drm_license_uri":"zHg7TiMiZQXpasLkGtDjla7wWeS5FlIpkxioUwzkAmRzmm1GHQgiTrShov8y4MVE"
       },
       
       {
